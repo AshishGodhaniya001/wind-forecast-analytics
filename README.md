@@ -212,7 +212,7 @@ OpenAI Codex was used as an AI coding assistant during implementation and dashbo
 
 ## Deployment
 
-Production dashboard: <https://wind-forecast-vercel-stage2.vercel.app>
+Production dashboard: <https://wind-forecast-analytics-dashboard.vercel.app>
 
 The Vercel deployment serves the React dashboard and the existing FastAPI
 endpoints from one origin. It uses the tracked January analysis artefacts; it
