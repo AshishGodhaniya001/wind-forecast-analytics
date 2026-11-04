@@ -200,9 +200,9 @@ There is no separate frontend test script.
 │   └── data/         # Generated raw/ and processed/ files; only runtime report + aligned pairs tracked
 ├── frontend/
 │   └── src/          # React dashboard, API client, charts, components, styles
-├── api/              # Vercel FastAPI function adapter
+├── index.py          # Vercel FastAPI entry point
 ├── compose.yaml      # Docker Compose services
-├── vercel.json       # Vercel preview configuration
+├── vercel.json       # Vercel build configuration
 └── .env.example      # Local configuration reference
 ```
 
@@ -212,4 +212,8 @@ OpenAI Codex was used as an AI coding assistant during implementation and dashbo
 
 ## Deployment
 
-The Vercel preview URL will be added here after deployment.
+Production dashboard: <https://wind-forecast-vercel-stage2.vercel.app>
+
+The Vercel deployment serves the React dashboard and the existing FastAPI
+endpoints from one origin. It uses the tracked January analysis artefacts; it
+does not retrieve live Elexon data or recalculate metrics during requests.
