@@ -9,16 +9,7 @@ A full-stack dashboard that answers one question: **how good were the day-ahead 
 
 It compares Elexon national wind generation actuals (FUELHH, fuel type `WIND`) with WINDFOR forecasts and reports accuracy, bias, lead-time patterns, a previous-day persistence baseline, and timestamp sensitivity. The dashboard reads pre-generated analysis files through a FastAPI API and makes no live Elexon requests.
 
-![Simple desktop dashboard view](docs/dashboard.png)
-
-<details>
-<summary>More screenshots (detailed view, mobile)</summary>
-
-![Detailed desktop dashboard view](docs/dashboard-detailed.png)
-
-![Mobile dashboard view](docs/dashboard-mobile.png)
-
-</details>
+The dashboard supports Simple and Detailed views on desktop and mobile.
 
 ## Table of contents
 
@@ -96,7 +87,7 @@ docker compose up --build
 | Health check | <http://localhost:8000/api/health> |
 | Interactive API docs | <http://localhost:8000/docs> |
 
-Stop with `Ctrl+C`, or run `docker compose down` from another terminal. Generated data is ignored by Git and stored under `backend/data/`.
+Stop with `Ctrl+C`, or run `docker compose down` from another terminal. Raw API downloads and intermediate generated data are ignored by Git under `backend/data/`; the two processed files needed at runtime are tracked for the hosted API.
 
 ## Run without Docker
 
@@ -156,7 +147,7 @@ Open <http://localhost:5173>. The default `VITE_API_BASE_URL` is `http://localho
 
 ## Data files
 
-All generated data lives under `backend/data/` and is not committed.
+Raw API downloads and generated intermediate files are local and ignored. The aligned analysis and report are tracked so the hosted API can serve the same precomputed January analysis without recalculating metrics at request time.
 
 | File | Purpose |
 | --- | --- |
@@ -206,11 +197,12 @@ There is no separate frontend test script.
 │   ├── app/          # FastAPI routes, response schemas, analysis and data-loading services
 │   ├── scripts/      # Elexon data retrieval and January analysis scripts
 │   ├── tests/        # Backend tests
-│   └── data/         # Generated raw/ and processed/ files (not committed)
+│   └── data/         # Generated raw/ and processed/ files; only runtime report + aligned pairs tracked
 ├── frontend/
 │   └── src/          # React dashboard, API client, charts, components, styles
-├── docs/             # Dashboard screenshots
+├── api/              # Vercel FastAPI function adapter
 ├── compose.yaml      # Docker Compose services
+├── vercel.json       # Vercel preview configuration
 └── .env.example      # Local configuration reference
 ```
 
@@ -220,4 +212,4 @@ OpenAI Codex was used as an AI coding assistant during implementation and dashbo
 
 ## Deployment
 
-The public deployment URL will be added here after deployment and access verification.
+The Vercel preview URL will be added here after deployment.

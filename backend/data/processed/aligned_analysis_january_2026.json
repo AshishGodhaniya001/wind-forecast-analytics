@@ -1,0 +1,5960 @@
+{
+  "dataset": "aligned-pairs",
+  "description": "Hourly actual and selected forecast matched by target interval. errorMW = forecastMW - actualMW.",
+  "derived": true,
+  "pair_count": 744,
+  "records": [
+    {
+      "targetStart": "2026-01-01T00:00:00Z",
+      "actualMW": 13814.5,
+      "forecastMW": 19412.0,
+      "errorMW": 5597.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-01T01:00:00Z",
+      "actualMW": 14056.5,
+      "forecastMW": 19620.0,
+      "errorMW": 5563.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-01T02:00:00Z",
+      "actualMW": 14380.0,
+      "forecastMW": 19553.0,
+      "errorMW": 5173.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-01T03:00:00Z",
+      "actualMW": 15103.0,
+      "forecastMW": 19340.0,
+      "errorMW": 4237.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-01T04:00:00Z",
+      "actualMW": 15349.5,
+      "forecastMW": 19198.0,
+      "errorMW": 3848.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-01T05:00:00Z",
+      "actualMW": 15402.5,
+      "forecastMW": 19138.0,
+      "errorMW": 3735.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-01T06:00:00Z",
+      "actualMW": 15404.0,
+      "forecastMW": 19264.0,
+      "errorMW": 3860.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-01T07:00:00Z",
+      "actualMW": 15350.5,
+      "forecastMW": 19395.0,
+      "errorMW": 4044.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-01T08:00:00Z",
+      "actualMW": 15598.5,
+      "forecastMW": 19512.0,
+      "errorMW": 3913.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-01T09:00:00Z",
+      "actualMW": 15534.5,
+      "forecastMW": 19428.0,
+      "errorMW": 3893.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-01T10:00:00Z",
+      "actualMW": 15924.0,
+      "forecastMW": 19448.0,
+      "errorMW": 3524.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-01T11:00:00Z",
+      "actualMW": 16295.5,
+      "forecastMW": 19589.0,
+      "errorMW": 3293.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-01T12:00:00Z",
+      "actualMW": 16330.0,
+      "forecastMW": 19764.0,
+      "errorMW": 3434.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-01T13:00:00Z",
+      "actualMW": 16160.5,
+      "forecastMW": 19946.0,
+      "errorMW": 3785.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-01T14:00:00Z",
+      "actualMW": 15926.5,
+      "forecastMW": 20005.0,
+      "errorMW": 4078.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-01T15:00:00Z",
+      "actualMW": 15172.5,
+      "forecastMW": 19991.0,
+      "errorMW": 4818.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-01T16:00:00Z",
+      "actualMW": 15194.0,
+      "forecastMW": 20028.0,
+      "errorMW": 4834.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-01T17:00:00Z",
+      "actualMW": 15117.0,
+      "forecastMW": 19974.0,
+      "errorMW": 4857.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-01T18:00:00Z",
+      "actualMW": 15380.0,
+      "forecastMW": 19942.0,
+      "errorMW": 4562.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-01T19:00:00Z",
+      "actualMW": 15468.0,
+      "forecastMW": 19797.0,
+      "errorMW": 4329.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-01T20:00:00Z",
+      "actualMW": 15243.0,
+      "forecastMW": 19627.0,
+      "errorMW": 4384.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-01T21:00:00Z",
+      "actualMW": 15580.5,
+      "forecastMW": 19485.0,
+      "errorMW": 3904.5,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-01T22:00:00Z",
+      "actualMW": 15584.0,
+      "forecastMW": 19307.0,
+      "errorMW": 3723.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-01T23:00:00Z",
+      "actualMW": 15558.0,
+      "forecastMW": 19145.0,
+      "errorMW": 3587.0,
+      "forecastPublishTime": "2025-12-31T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-02T00:00:00Z",
+      "actualMW": 15366.5,
+      "forecastMW": 18781.0,
+      "errorMW": 3414.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-02T01:00:00Z",
+      "actualMW": 15681.0,
+      "forecastMW": 18793.0,
+      "errorMW": 3112.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-02T02:00:00Z",
+      "actualMW": 15875.0,
+      "forecastMW": 18802.0,
+      "errorMW": 2927.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-02T03:00:00Z",
+      "actualMW": 16110.5,
+      "forecastMW": 18847.0,
+      "errorMW": 2736.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-02T04:00:00Z",
+      "actualMW": 16061.0,
+      "forecastMW": 18895.0,
+      "errorMW": 2834.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-02T05:00:00Z",
+      "actualMW": 15888.0,
+      "forecastMW": 18869.0,
+      "errorMW": 2981.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-02T06:00:00Z",
+      "actualMW": 15154.0,
+      "forecastMW": 18803.0,
+      "errorMW": 3649.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-02T07:00:00Z",
+      "actualMW": 15088.0,
+      "forecastMW": 18654.0,
+      "errorMW": 3566.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-02T08:00:00Z",
+      "actualMW": 15661.5,
+      "forecastMW": 18338.0,
+      "errorMW": 2676.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-02T09:00:00Z",
+      "actualMW": 15544.5,
+      "forecastMW": 18148.0,
+      "errorMW": 2603.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-02T10:00:00Z",
+      "actualMW": 15360.0,
+      "forecastMW": 17948.0,
+      "errorMW": 2588.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-02T11:00:00Z",
+      "actualMW": 15466.0,
+      "forecastMW": 17629.0,
+      "errorMW": 2163.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-02T12:00:00Z",
+      "actualMW": 14757.5,
+      "forecastMW": 17541.0,
+      "errorMW": 2783.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-02T13:00:00Z",
+      "actualMW": 15339.0,
+      "forecastMW": 17605.0,
+      "errorMW": 2266.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-02T14:00:00Z",
+      "actualMW": 15513.0,
+      "forecastMW": 17712.0,
+      "errorMW": 2199.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-02T15:00:00Z",
+      "actualMW": 15568.5,
+      "forecastMW": 17776.0,
+      "errorMW": 2207.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-02T16:00:00Z",
+      "actualMW": 14595.0,
+      "forecastMW": 17859.0,
+      "errorMW": 3264.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-02T17:00:00Z",
+      "actualMW": 14952.5,
+      "forecastMW": 18097.0,
+      "errorMW": 3144.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-02T18:00:00Z",
+      "actualMW": 14474.5,
+      "forecastMW": 18281.0,
+      "errorMW": 3806.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-02T19:00:00Z",
+      "actualMW": 14663.0,
+      "forecastMW": 18269.0,
+      "errorMW": 3606.0,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-02T20:00:00Z",
+      "actualMW": 14276.5,
+      "forecastMW": 18202.0,
+      "errorMW": 3925.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-02T21:00:00Z",
+      "actualMW": 14524.5,
+      "forecastMW": 18241.0,
+      "errorMW": 3716.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-02T22:00:00Z",
+      "actualMW": 13970.5,
+      "forecastMW": 18293.0,
+      "errorMW": 4322.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-02T23:00:00Z",
+      "actualMW": 14167.5,
+      "forecastMW": 18313.0,
+      "errorMW": 4145.5,
+      "forecastPublishTime": "2026-01-01T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-03T00:00:00Z",
+      "actualMW": 14505.0,
+      "forecastMW": 18711.0,
+      "errorMW": 4206.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-03T01:00:00Z",
+      "actualMW": 14710.5,
+      "forecastMW": 18809.0,
+      "errorMW": 4098.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-03T02:00:00Z",
+      "actualMW": 14681.0,
+      "forecastMW": 18929.0,
+      "errorMW": 4248.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-03T03:00:00Z",
+      "actualMW": 14918.0,
+      "forecastMW": 18992.0,
+      "errorMW": 4074.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-03T04:00:00Z",
+      "actualMW": 15037.0,
+      "forecastMW": 18898.0,
+      "errorMW": 3861.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-03T05:00:00Z",
+      "actualMW": 15187.0,
+      "forecastMW": 18700.0,
+      "errorMW": 3513.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-03T06:00:00Z",
+      "actualMW": 15442.0,
+      "forecastMW": 18572.0,
+      "errorMW": 3130.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-03T07:00:00Z",
+      "actualMW": 15217.0,
+      "forecastMW": 18181.0,
+      "errorMW": 2964.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-03T08:00:00Z",
+      "actualMW": 15200.5,
+      "forecastMW": 17693.0,
+      "errorMW": 2492.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-03T09:00:00Z",
+      "actualMW": 15192.5,
+      "forecastMW": 17310.0,
+      "errorMW": 2117.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-03T10:00:00Z",
+      "actualMW": 15884.0,
+      "forecastMW": 16985.0,
+      "errorMW": 1101.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-03T11:00:00Z",
+      "actualMW": 15845.5,
+      "forecastMW": 16810.0,
+      "errorMW": 964.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-03T12:00:00Z",
+      "actualMW": 15492.5,
+      "forecastMW": 16741.0,
+      "errorMW": 1248.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-03T13:00:00Z",
+      "actualMW": 15385.5,
+      "forecastMW": 16833.0,
+      "errorMW": 1447.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-03T14:00:00Z",
+      "actualMW": 15055.5,
+      "forecastMW": 16946.0,
+      "errorMW": 1890.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-03T15:00:00Z",
+      "actualMW": 15800.0,
+      "forecastMW": 16919.0,
+      "errorMW": 1119.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-03T16:00:00Z",
+      "actualMW": 15723.5,
+      "forecastMW": 16895.0,
+      "errorMW": 1171.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-03T17:00:00Z",
+      "actualMW": 15451.0,
+      "forecastMW": 16931.0,
+      "errorMW": 1480.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-03T18:00:00Z",
+      "actualMW": 15586.5,
+      "forecastMW": 16795.0,
+      "errorMW": 1208.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-03T19:00:00Z",
+      "actualMW": 15072.5,
+      "forecastMW": 16489.0,
+      "errorMW": 1416.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-03T20:00:00Z",
+      "actualMW": 15032.0,
+      "forecastMW": 16127.0,
+      "errorMW": 1095.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-03T21:00:00Z",
+      "actualMW": 14918.5,
+      "forecastMW": 15856.0,
+      "errorMW": 937.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-03T22:00:00Z",
+      "actualMW": 15387.0,
+      "forecastMW": 15760.0,
+      "errorMW": 373.0,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-03T23:00:00Z",
+      "actualMW": 15304.5,
+      "forecastMW": 15600.0,
+      "errorMW": 295.5,
+      "forecastPublishTime": "2026-01-02T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-04T00:00:00Z",
+      "actualMW": 14994.0,
+      "forecastMW": 16572.0,
+      "errorMW": 1578.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-04T01:00:00Z",
+      "actualMW": 14938.5,
+      "forecastMW": 16413.0,
+      "errorMW": 1474.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-04T02:00:00Z",
+      "actualMW": 14812.0,
+      "forecastMW": 16072.0,
+      "errorMW": 1260.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-04T03:00:00Z",
+      "actualMW": 14520.5,
+      "forecastMW": 15716.0,
+      "errorMW": 1195.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-04T04:00:00Z",
+      "actualMW": 14458.5,
+      "forecastMW": 15564.0,
+      "errorMW": 1105.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-04T05:00:00Z",
+      "actualMW": 14489.5,
+      "forecastMW": 15478.0,
+      "errorMW": 988.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-04T06:00:00Z",
+      "actualMW": 14190.0,
+      "forecastMW": 15230.0,
+      "errorMW": 1040.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-04T07:00:00Z",
+      "actualMW": 13952.5,
+      "forecastMW": 14959.0,
+      "errorMW": 1006.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-04T08:00:00Z",
+      "actualMW": 13863.0,
+      "forecastMW": 14717.0,
+      "errorMW": 854.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-04T09:00:00Z",
+      "actualMW": 13727.5,
+      "forecastMW": 14532.0,
+      "errorMW": 804.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-04T10:00:00Z",
+      "actualMW": 13736.5,
+      "forecastMW": 14320.0,
+      "errorMW": 583.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-04T11:00:00Z",
+      "actualMW": 13554.5,
+      "forecastMW": 14014.0,
+      "errorMW": 459.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-04T12:00:00Z",
+      "actualMW": 13670.5,
+      "forecastMW": 13753.0,
+      "errorMW": 82.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-04T13:00:00Z",
+      "actualMW": 13408.0,
+      "forecastMW": 13748.0,
+      "errorMW": 340.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-04T14:00:00Z",
+      "actualMW": 13154.0,
+      "forecastMW": 13743.0,
+      "errorMW": 589.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-04T15:00:00Z",
+      "actualMW": 12693.5,
+      "forecastMW": 13640.0,
+      "errorMW": 946.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-04T16:00:00Z",
+      "actualMW": 12537.0,
+      "forecastMW": 13731.0,
+      "errorMW": 1194.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-04T17:00:00Z",
+      "actualMW": 12027.0,
+      "forecastMW": 13947.0,
+      "errorMW": 1920.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-04T18:00:00Z",
+      "actualMW": 12023.0,
+      "forecastMW": 14146.0,
+      "errorMW": 2123.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-04T19:00:00Z",
+      "actualMW": 12531.0,
+      "forecastMW": 14058.0,
+      "errorMW": 1527.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-04T20:00:00Z",
+      "actualMW": 12212.5,
+      "forecastMW": 13808.0,
+      "errorMW": 1595.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-04T21:00:00Z",
+      "actualMW": 11860.5,
+      "forecastMW": 13435.0,
+      "errorMW": 1574.5,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-04T22:00:00Z",
+      "actualMW": 11798.0,
+      "forecastMW": 13107.0,
+      "errorMW": 1309.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-04T23:00:00Z",
+      "actualMW": 11084.0,
+      "forecastMW": 13050.0,
+      "errorMW": 1966.0,
+      "forecastPublishTime": "2026-01-03T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-05T00:00:00Z",
+      "actualMW": 10650.5,
+      "forecastMW": 12848.0,
+      "errorMW": 2197.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-05T01:00:00Z",
+      "actualMW": 10643.0,
+      "forecastMW": 12514.0,
+      "errorMW": 1871.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-05T02:00:00Z",
+      "actualMW": 10258.0,
+      "forecastMW": 12141.0,
+      "errorMW": 1883.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-05T03:00:00Z",
+      "actualMW": 10473.0,
+      "forecastMW": 12018.0,
+      "errorMW": 1545.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-05T04:00:00Z",
+      "actualMW": 10410.5,
+      "forecastMW": 11854.0,
+      "errorMW": 1443.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-05T05:00:00Z",
+      "actualMW": 10621.5,
+      "forecastMW": 11433.0,
+      "errorMW": 811.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-05T06:00:00Z",
+      "actualMW": 10675.5,
+      "forecastMW": 10837.0,
+      "errorMW": 161.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-05T07:00:00Z",
+      "actualMW": 9571.0,
+      "forecastMW": 10418.0,
+      "errorMW": 847.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-05T08:00:00Z",
+      "actualMW": 9393.5,
+      "forecastMW": 9914.0,
+      "errorMW": 520.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-05T09:00:00Z",
+      "actualMW": 9635.0,
+      "forecastMW": 9306.0,
+      "errorMW": -329.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-05T10:00:00Z",
+      "actualMW": 9777.0,
+      "forecastMW": 8858.0,
+      "errorMW": -919.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-05T11:00:00Z",
+      "actualMW": 10328.0,
+      "forecastMW": 8288.0,
+      "errorMW": -2040.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-05T12:00:00Z",
+      "actualMW": 10533.5,
+      "forecastMW": 7790.0,
+      "errorMW": -2743.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-05T13:00:00Z",
+      "actualMW": 10524.0,
+      "forecastMW": 7657.0,
+      "errorMW": -2867.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-05T14:00:00Z",
+      "actualMW": 9964.5,
+      "forecastMW": 7600.0,
+      "errorMW": -2364.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-05T15:00:00Z",
+      "actualMW": 9851.0,
+      "forecastMW": 7743.0,
+      "errorMW": -2108.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-05T16:00:00Z",
+      "actualMW": 9581.0,
+      "forecastMW": 7903.0,
+      "errorMW": -1678.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-05T17:00:00Z",
+      "actualMW": 9323.0,
+      "forecastMW": 7994.0,
+      "errorMW": -1329.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-05T18:00:00Z",
+      "actualMW": 8324.5,
+      "forecastMW": 8097.0,
+      "errorMW": -227.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-05T19:00:00Z",
+      "actualMW": 7939.0,
+      "forecastMW": 8002.0,
+      "errorMW": 63.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-05T20:00:00Z",
+      "actualMW": 8017.0,
+      "forecastMW": 7972.0,
+      "errorMW": -45.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-05T21:00:00Z",
+      "actualMW": 7493.0,
+      "forecastMW": 7881.0,
+      "errorMW": 388.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-05T22:00:00Z",
+      "actualMW": 6455.0,
+      "forecastMW": 8020.0,
+      "errorMW": 1565.0,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-05T23:00:00Z",
+      "actualMW": 6104.5,
+      "forecastMW": 8118.0,
+      "errorMW": 2013.5,
+      "forecastPublishTime": "2026-01-04T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-06T00:00:00Z",
+      "actualMW": 5711.0,
+      "forecastMW": 6448.0,
+      "errorMW": 737.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-06T01:00:00Z",
+      "actualMW": 5014.0,
+      "forecastMW": 6723.0,
+      "errorMW": 1709.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-06T02:00:00Z",
+      "actualMW": 4050.0,
+      "forecastMW": 7016.0,
+      "errorMW": 2966.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-06T03:00:00Z",
+      "actualMW": 3608.5,
+      "forecastMW": 7534.0,
+      "errorMW": 3925.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-06T04:00:00Z",
+      "actualMW": 4444.5,
+      "forecastMW": 8230.0,
+      "errorMW": 3785.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-06T05:00:00Z",
+      "actualMW": 4582.0,
+      "forecastMW": 8637.0,
+      "errorMW": 4055.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-06T06:00:00Z",
+      "actualMW": 5443.5,
+      "forecastMW": 9028.0,
+      "errorMW": 3584.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-06T07:00:00Z",
+      "actualMW": 5580.0,
+      "forecastMW": 9242.0,
+      "errorMW": 3662.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-06T08:00:00Z",
+      "actualMW": 6007.5,
+      "forecastMW": 9470.0,
+      "errorMW": 3462.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-06T09:00:00Z",
+      "actualMW": 6333.0,
+      "forecastMW": 9760.0,
+      "errorMW": 3427.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-06T10:00:00Z",
+      "actualMW": 6765.0,
+      "forecastMW": 10022.0,
+      "errorMW": 3257.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-06T11:00:00Z",
+      "actualMW": 7756.0,
+      "forecastMW": 10478.0,
+      "errorMW": 2722.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-06T12:00:00Z",
+      "actualMW": 9498.0,
+      "forecastMW": 11181.0,
+      "errorMW": 1683.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-06T13:00:00Z",
+      "actualMW": 10303.0,
+      "forecastMW": 11755.0,
+      "errorMW": 1452.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-06T14:00:00Z",
+      "actualMW": 10528.5,
+      "forecastMW": 12354.0,
+      "errorMW": 1825.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-06T15:00:00Z",
+      "actualMW": 11297.0,
+      "forecastMW": 13063.0,
+      "errorMW": 1766.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-06T16:00:00Z",
+      "actualMW": 12445.0,
+      "forecastMW": 13611.0,
+      "errorMW": 1166.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-06T17:00:00Z",
+      "actualMW": 13416.5,
+      "forecastMW": 14117.0,
+      "errorMW": 700.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-06T18:00:00Z",
+      "actualMW": 14389.5,
+      "forecastMW": 14473.0,
+      "errorMW": 83.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-06T19:00:00Z",
+      "actualMW": 15357.0,
+      "forecastMW": 14678.0,
+      "errorMW": -679.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-06T20:00:00Z",
+      "actualMW": 15936.5,
+      "forecastMW": 15013.0,
+      "errorMW": -923.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-06T21:00:00Z",
+      "actualMW": 16638.0,
+      "forecastMW": 15571.0,
+      "errorMW": -1067.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-06T22:00:00Z",
+      "actualMW": 16335.0,
+      "forecastMW": 16008.0,
+      "errorMW": -327.0,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-06T23:00:00Z",
+      "actualMW": 15325.5,
+      "forecastMW": 16400.0,
+      "errorMW": 1074.5,
+      "forecastPublishTime": "2026-01-05T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-07T00:00:00Z",
+      "actualMW": 14769.5,
+      "forecastMW": 17037.0,
+      "errorMW": 2267.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-07T01:00:00Z",
+      "actualMW": 14894.5,
+      "forecastMW": 17402.0,
+      "errorMW": 2507.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-07T02:00:00Z",
+      "actualMW": 14840.5,
+      "forecastMW": 17465.0,
+      "errorMW": 2624.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-07T03:00:00Z",
+      "actualMW": 14626.5,
+      "forecastMW": 17272.0,
+      "errorMW": 2645.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-07T04:00:00Z",
+      "actualMW": 14579.5,
+      "forecastMW": 16882.0,
+      "errorMW": 2302.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-07T05:00:00Z",
+      "actualMW": 13634.0,
+      "forecastMW": 16512.0,
+      "errorMW": 2878.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-07T06:00:00Z",
+      "actualMW": 13031.0,
+      "forecastMW": 16198.0,
+      "errorMW": 3167.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-07T07:00:00Z",
+      "actualMW": 13548.0,
+      "forecastMW": 15739.0,
+      "errorMW": 2191.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-07T08:00:00Z",
+      "actualMW": 14757.0,
+      "forecastMW": 15081.0,
+      "errorMW": 324.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-07T09:00:00Z",
+      "actualMW": 15207.5,
+      "forecastMW": 14910.0,
+      "errorMW": -297.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-07T10:00:00Z",
+      "actualMW": 14789.0,
+      "forecastMW": 14793.0,
+      "errorMW": 4.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-07T11:00:00Z",
+      "actualMW": 14207.5,
+      "forecastMW": 14577.0,
+      "errorMW": 369.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-07T12:00:00Z",
+      "actualMW": 13244.5,
+      "forecastMW": 14095.0,
+      "errorMW": 850.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-07T13:00:00Z",
+      "actualMW": 12303.5,
+      "forecastMW": 13586.0,
+      "errorMW": 1282.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-07T14:00:00Z",
+      "actualMW": 11914.0,
+      "forecastMW": 13212.0,
+      "errorMW": 1298.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-07T15:00:00Z",
+      "actualMW": 11354.0,
+      "forecastMW": 12712.0,
+      "errorMW": 1358.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-07T16:00:00Z",
+      "actualMW": 11083.0,
+      "forecastMW": 12158.0,
+      "errorMW": 1075.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-07T17:00:00Z",
+      "actualMW": 10933.5,
+      "forecastMW": 11784.0,
+      "errorMW": 850.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-07T18:00:00Z",
+      "actualMW": 10265.0,
+      "forecastMW": 10997.0,
+      "errorMW": 732.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-07T19:00:00Z",
+      "actualMW": 9259.0,
+      "forecastMW": 10263.0,
+      "errorMW": 1004.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-07T20:00:00Z",
+      "actualMW": 8411.0,
+      "forecastMW": 9441.0,
+      "errorMW": 1030.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-07T21:00:00Z",
+      "actualMW": 7406.5,
+      "forecastMW": 8753.0,
+      "errorMW": 1346.5,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-07T22:00:00Z",
+      "actualMW": 6584.0,
+      "forecastMW": 8214.0,
+      "errorMW": 1630.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-07T23:00:00Z",
+      "actualMW": 5792.0,
+      "forecastMW": 7585.0,
+      "errorMW": 1793.0,
+      "forecastPublishTime": "2026-01-06T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-08T00:00:00Z",
+      "actualMW": 4964.5,
+      "forecastMW": 5660.0,
+      "errorMW": 695.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-08T01:00:00Z",
+      "actualMW": 3923.0,
+      "forecastMW": 5417.0,
+      "errorMW": 1494.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-08T02:00:00Z",
+      "actualMW": 2900.5,
+      "forecastMW": 5284.0,
+      "errorMW": 2383.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-08T03:00:00Z",
+      "actualMW": 2314.5,
+      "forecastMW": 5254.0,
+      "errorMW": 2939.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-08T04:00:00Z",
+      "actualMW": 2285.0,
+      "forecastMW": 5172.0,
+      "errorMW": 2887.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-08T05:00:00Z",
+      "actualMW": 2222.5,
+      "forecastMW": 5088.0,
+      "errorMW": 2865.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-08T06:00:00Z",
+      "actualMW": 1878.0,
+      "forecastMW": 4894.0,
+      "errorMW": 3016.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-08T07:00:00Z",
+      "actualMW": 1867.5,
+      "forecastMW": 4570.0,
+      "errorMW": 2702.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-08T08:00:00Z",
+      "actualMW": 1928.5,
+      "forecastMW": 4228.0,
+      "errorMW": 2299.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-08T09:00:00Z",
+      "actualMW": 2222.5,
+      "forecastMW": 4067.0,
+      "errorMW": 1844.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-08T10:00:00Z",
+      "actualMW": 2045.0,
+      "forecastMW": 3999.0,
+      "errorMW": 1954.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-08T11:00:00Z",
+      "actualMW": 1772.0,
+      "forecastMW": 3769.0,
+      "errorMW": 1997.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-08T12:00:00Z",
+      "actualMW": 1711.5,
+      "forecastMW": 3487.0,
+      "errorMW": 1775.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-08T13:00:00Z",
+      "actualMW": 1858.0,
+      "forecastMW": 3283.0,
+      "errorMW": 1425.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-08T14:00:00Z",
+      "actualMW": 2162.0,
+      "forecastMW": 3161.0,
+      "errorMW": 999.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-08T15:00:00Z",
+      "actualMW": 2898.5,
+      "forecastMW": 3254.0,
+      "errorMW": 355.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-08T16:00:00Z",
+      "actualMW": 4311.5,
+      "forecastMW": 3668.0,
+      "errorMW": -643.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-08T17:00:00Z",
+      "actualMW": 6196.5,
+      "forecastMW": 4397.0,
+      "errorMW": -1799.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-08T18:00:00Z",
+      "actualMW": 8592.0,
+      "forecastMW": 5349.0,
+      "errorMW": -3243.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-08T19:00:00Z",
+      "actualMW": 10041.0,
+      "forecastMW": 6491.0,
+      "errorMW": -3550.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-08T20:00:00Z",
+      "actualMW": 10654.5,
+      "forecastMW": 7840.0,
+      "errorMW": -2814.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-08T21:00:00Z",
+      "actualMW": 10444.0,
+      "forecastMW": 9241.0,
+      "errorMW": -1203.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-08T22:00:00Z",
+      "actualMW": 9954.0,
+      "forecastMW": 10367.0,
+      "errorMW": 413.0,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-08T23:00:00Z",
+      "actualMW": 9526.5,
+      "forecastMW": 11008.0,
+      "errorMW": 1481.5,
+      "forecastPublishTime": "2026-01-07T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-09T00:00:00Z",
+      "actualMW": 9428.5,
+      "forecastMW": 11671.0,
+      "errorMW": 2242.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-09T01:00:00Z",
+      "actualMW": 9793.0,
+      "forecastMW": 11701.0,
+      "errorMW": 1908.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-09T02:00:00Z",
+      "actualMW": 10409.5,
+      "forecastMW": 11727.0,
+      "errorMW": 1317.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-09T03:00:00Z",
+      "actualMW": 9967.5,
+      "forecastMW": 11632.0,
+      "errorMW": 1664.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-09T04:00:00Z",
+      "actualMW": 9531.0,
+      "forecastMW": 11450.0,
+      "errorMW": 1919.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-09T05:00:00Z",
+      "actualMW": 9635.0,
+      "forecastMW": 11227.0,
+      "errorMW": 1592.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-09T06:00:00Z",
+      "actualMW": 9745.5,
+      "forecastMW": 11096.0,
+      "errorMW": 1350.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-09T07:00:00Z",
+      "actualMW": 10093.0,
+      "forecastMW": 11227.0,
+      "errorMW": 1134.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-09T08:00:00Z",
+      "actualMW": 10377.0,
+      "forecastMW": 11339.0,
+      "errorMW": 962.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-09T09:00:00Z",
+      "actualMW": 11155.5,
+      "forecastMW": 11316.0,
+      "errorMW": 160.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-09T10:00:00Z",
+      "actualMW": 11370.5,
+      "forecastMW": 11311.0,
+      "errorMW": -59.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-09T11:00:00Z",
+      "actualMW": 11385.0,
+      "forecastMW": 11322.0,
+      "errorMW": -63.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-09T12:00:00Z",
+      "actualMW": 11366.0,
+      "forecastMW": 11357.0,
+      "errorMW": -9.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-09T13:00:00Z",
+      "actualMW": 10927.5,
+      "forecastMW": 11467.0,
+      "errorMW": 539.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-09T14:00:00Z",
+      "actualMW": 10870.0,
+      "forecastMW": 11487.0,
+      "errorMW": 617.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-09T15:00:00Z",
+      "actualMW": 10722.5,
+      "forecastMW": 11567.0,
+      "errorMW": 844.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-09T16:00:00Z",
+      "actualMW": 10749.5,
+      "forecastMW": 11749.0,
+      "errorMW": 999.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-09T17:00:00Z",
+      "actualMW": 10930.0,
+      "forecastMW": 11883.0,
+      "errorMW": 953.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-09T18:00:00Z",
+      "actualMW": 11154.5,
+      "forecastMW": 11944.0,
+      "errorMW": 789.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-09T19:00:00Z",
+      "actualMW": 11507.0,
+      "forecastMW": 11993.0,
+      "errorMW": 486.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-09T20:00:00Z",
+      "actualMW": 11713.0,
+      "forecastMW": 11965.0,
+      "errorMW": 252.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-09T21:00:00Z",
+      "actualMW": 11971.0,
+      "forecastMW": 11838.0,
+      "errorMW": -133.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-09T22:00:00Z",
+      "actualMW": 11812.5,
+      "forecastMW": 11670.0,
+      "errorMW": -142.5,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-09T23:00:00Z",
+      "actualMW": 11552.0,
+      "forecastMW": 11544.0,
+      "errorMW": -8.0,
+      "forecastPublishTime": "2026-01-08T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-10T00:00:00Z",
+      "actualMW": 11294.5,
+      "forecastMW": 11542.0,
+      "errorMW": 247.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-10T01:00:00Z",
+      "actualMW": 10905.5,
+      "forecastMW": 11474.0,
+      "errorMW": 568.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-10T02:00:00Z",
+      "actualMW": 10434.5,
+      "forecastMW": 11282.0,
+      "errorMW": 847.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-10T03:00:00Z",
+      "actualMW": 10184.5,
+      "forecastMW": 10928.0,
+      "errorMW": 743.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-10T04:00:00Z",
+      "actualMW": 9785.0,
+      "forecastMW": 10720.0,
+      "errorMW": 935.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-10T05:00:00Z",
+      "actualMW": 9120.0,
+      "forecastMW": 10506.0,
+      "errorMW": 1386.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-10T06:00:00Z",
+      "actualMW": 8978.0,
+      "forecastMW": 10118.0,
+      "errorMW": 1140.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-10T07:00:00Z",
+      "actualMW": 8917.0,
+      "forecastMW": 10126.0,
+      "errorMW": 1209.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-10T08:00:00Z",
+      "actualMW": 8639.5,
+      "forecastMW": 9864.0,
+      "errorMW": 1224.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-10T09:00:00Z",
+      "actualMW": 8215.0,
+      "forecastMW": 9686.0,
+      "errorMW": 1471.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-10T10:00:00Z",
+      "actualMW": 8072.5,
+      "forecastMW": 9367.0,
+      "errorMW": 1294.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-10T11:00:00Z",
+      "actualMW": 7707.5,
+      "forecastMW": 8749.0,
+      "errorMW": 1041.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-10T12:00:00Z",
+      "actualMW": 7879.0,
+      "forecastMW": 7945.0,
+      "errorMW": 66.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-10T13:00:00Z",
+      "actualMW": 8138.5,
+      "forecastMW": 7325.0,
+      "errorMW": -813.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-10T14:00:00Z",
+      "actualMW": 8067.0,
+      "forecastMW": 6882.0,
+      "errorMW": -1185.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-10T15:00:00Z",
+      "actualMW": 8075.5,
+      "forecastMW": 6627.0,
+      "errorMW": -1448.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-10T16:00:00Z",
+      "actualMW": 8171.5,
+      "forecastMW": 6526.0,
+      "errorMW": -1645.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-10T17:00:00Z",
+      "actualMW": 8054.5,
+      "forecastMW": 6416.0,
+      "errorMW": -1638.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-10T18:00:00Z",
+      "actualMW": 8654.5,
+      "forecastMW": 6409.0,
+      "errorMW": -2245.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-10T19:00:00Z",
+      "actualMW": 8648.5,
+      "forecastMW": 6507.0,
+      "errorMW": -2141.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-10T20:00:00Z",
+      "actualMW": 8484.0,
+      "forecastMW": 6782.0,
+      "errorMW": -1702.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-10T21:00:00Z",
+      "actualMW": 8035.5,
+      "forecastMW": 7173.0,
+      "errorMW": -862.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-10T22:00:00Z",
+      "actualMW": 8171.0,
+      "forecastMW": 7605.0,
+      "errorMW": -566.0,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-10T23:00:00Z",
+      "actualMW": 8068.5,
+      "forecastMW": 8075.0,
+      "errorMW": 6.5,
+      "forecastPublishTime": "2026-01-09T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-11T00:00:00Z",
+      "actualMW": 8214.0,
+      "forecastMW": 12050.0,
+      "errorMW": 3836.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-11T01:00:00Z",
+      "actualMW": 8387.0,
+      "forecastMW": 13190.0,
+      "errorMW": 4803.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-11T02:00:00Z",
+      "actualMW": 9074.5,
+      "forecastMW": 14369.0,
+      "errorMW": 5294.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-11T03:00:00Z",
+      "actualMW": 10205.5,
+      "forecastMW": 15581.0,
+      "errorMW": 5375.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-11T04:00:00Z",
+      "actualMW": 11058.5,
+      "forecastMW": 16538.0,
+      "errorMW": 5479.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-11T05:00:00Z",
+      "actualMW": 11641.5,
+      "forecastMW": 17259.0,
+      "errorMW": 5617.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-11T06:00:00Z",
+      "actualMW": 12209.5,
+      "forecastMW": 17926.0,
+      "errorMW": 5716.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-11T07:00:00Z",
+      "actualMW": 12641.0,
+      "forecastMW": 18326.0,
+      "errorMW": 5685.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-11T08:00:00Z",
+      "actualMW": 13572.5,
+      "forecastMW": 18582.0,
+      "errorMW": 5009.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-11T09:00:00Z",
+      "actualMW": 14264.5,
+      "forecastMW": 18774.0,
+      "errorMW": 4509.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-11T10:00:00Z",
+      "actualMW": 14898.5,
+      "forecastMW": 18995.0,
+      "errorMW": 4096.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-11T11:00:00Z",
+      "actualMW": 15482.0,
+      "forecastMW": 19248.0,
+      "errorMW": 3766.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-11T12:00:00Z",
+      "actualMW": 15399.0,
+      "forecastMW": 19492.0,
+      "errorMW": 4093.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-11T13:00:00Z",
+      "actualMW": 15680.5,
+      "forecastMW": 19493.0,
+      "errorMW": 3812.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-11T14:00:00Z",
+      "actualMW": 15920.0,
+      "forecastMW": 19855.0,
+      "errorMW": 3935.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-11T15:00:00Z",
+      "actualMW": 15865.5,
+      "forecastMW": 20032.0,
+      "errorMW": 4166.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-11T16:00:00Z",
+      "actualMW": 15808.5,
+      "forecastMW": 20203.0,
+      "errorMW": 4394.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-11T17:00:00Z",
+      "actualMW": 15874.5,
+      "forecastMW": 20257.0,
+      "errorMW": 4382.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-11T18:00:00Z",
+      "actualMW": 15982.0,
+      "forecastMW": 20194.0,
+      "errorMW": 4212.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-11T19:00:00Z",
+      "actualMW": 15443.5,
+      "forecastMW": 20118.0,
+      "errorMW": 4674.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-11T20:00:00Z",
+      "actualMW": 14684.5,
+      "forecastMW": 20044.0,
+      "errorMW": 5359.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-11T21:00:00Z",
+      "actualMW": 14456.5,
+      "forecastMW": 20004.0,
+      "errorMW": 5547.5,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-11T22:00:00Z",
+      "actualMW": 14493.0,
+      "forecastMW": 20013.0,
+      "errorMW": 5520.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-11T23:00:00Z",
+      "actualMW": 14120.0,
+      "forecastMW": 20073.0,
+      "errorMW": 5953.0,
+      "forecastPublishTime": "2026-01-10T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-12T00:00:00Z",
+      "actualMW": 14032.0,
+      "forecastMW": 20790.0,
+      "errorMW": 6758.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-12T01:00:00Z",
+      "actualMW": 14072.0,
+      "forecastMW": 20942.0,
+      "errorMW": 6870.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-12T02:00:00Z",
+      "actualMW": 14120.5,
+      "forecastMW": 20876.0,
+      "errorMW": 6755.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-12T03:00:00Z",
+      "actualMW": 14163.0,
+      "forecastMW": 20809.0,
+      "errorMW": 6646.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-12T04:00:00Z",
+      "actualMW": 14224.5,
+      "forecastMW": 20729.0,
+      "errorMW": 6504.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-12T05:00:00Z",
+      "actualMW": 14022.0,
+      "forecastMW": 20583.0,
+      "errorMW": 6561.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-12T06:00:00Z",
+      "actualMW": 14038.5,
+      "forecastMW": 20435.0,
+      "errorMW": 6396.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-12T07:00:00Z",
+      "actualMW": 14528.0,
+      "forecastMW": 20310.0,
+      "errorMW": 5782.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-12T08:00:00Z",
+      "actualMW": 14778.5,
+      "forecastMW": 20199.0,
+      "errorMW": 5420.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-12T09:00:00Z",
+      "actualMW": 14892.0,
+      "forecastMW": 20159.0,
+      "errorMW": 5267.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-12T10:00:00Z",
+      "actualMW": 14842.0,
+      "forecastMW": 20116.0,
+      "errorMW": 5274.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-12T11:00:00Z",
+      "actualMW": 14689.5,
+      "forecastMW": 20026.0,
+      "errorMW": 5336.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-12T12:00:00Z",
+      "actualMW": 14504.5,
+      "forecastMW": 19882.0,
+      "errorMW": 5377.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-12T13:00:00Z",
+      "actualMW": 14127.0,
+      "forecastMW": 19643.0,
+      "errorMW": 5516.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-12T14:00:00Z",
+      "actualMW": 14295.5,
+      "forecastMW": 19290.0,
+      "errorMW": 4994.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-12T15:00:00Z",
+      "actualMW": 14220.0,
+      "forecastMW": 18923.0,
+      "errorMW": 4703.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-12T16:00:00Z",
+      "actualMW": 14515.0,
+      "forecastMW": 18536.0,
+      "errorMW": 4021.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-12T17:00:00Z",
+      "actualMW": 14804.0,
+      "forecastMW": 18235.0,
+      "errorMW": 3431.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-12T18:00:00Z",
+      "actualMW": 14926.0,
+      "forecastMW": 18014.0,
+      "errorMW": 3088.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-12T19:00:00Z",
+      "actualMW": 15293.5,
+      "forecastMW": 17757.0,
+      "errorMW": 2463.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-12T20:00:00Z",
+      "actualMW": 15356.0,
+      "forecastMW": 17414.0,
+      "errorMW": 2058.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-12T21:00:00Z",
+      "actualMW": 14708.0,
+      "forecastMW": 17035.0,
+      "errorMW": 2327.0,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-12T22:00:00Z",
+      "actualMW": 14029.5,
+      "forecastMW": 16658.0,
+      "errorMW": 2628.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-12T23:00:00Z",
+      "actualMW": 13671.5,
+      "forecastMW": 16330.0,
+      "errorMW": 2658.5,
+      "forecastPublishTime": "2026-01-11T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-13T00:00:00Z",
+      "actualMW": 12996.0,
+      "forecastMW": 13852.0,
+      "errorMW": 856.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-13T01:00:00Z",
+      "actualMW": 12006.5,
+      "forecastMW": 13167.0,
+      "errorMW": 1160.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-13T02:00:00Z",
+      "actualMW": 10945.5,
+      "forecastMW": 12528.0,
+      "errorMW": 1582.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-13T03:00:00Z",
+      "actualMW": 10036.0,
+      "forecastMW": 11885.0,
+      "errorMW": 1849.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-13T04:00:00Z",
+      "actualMW": 9071.5,
+      "forecastMW": 11192.0,
+      "errorMW": 2120.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-13T05:00:00Z",
+      "actualMW": 7702.5,
+      "forecastMW": 10500.0,
+      "errorMW": 2797.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-13T06:00:00Z",
+      "actualMW": 6888.5,
+      "forecastMW": 9901.0,
+      "errorMW": 3012.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-13T07:00:00Z",
+      "actualMW": 7621.0,
+      "forecastMW": 9415.0,
+      "errorMW": 1794.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-13T08:00:00Z",
+      "actualMW": 8168.0,
+      "forecastMW": 9223.0,
+      "errorMW": 1055.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-13T09:00:00Z",
+      "actualMW": 8339.0,
+      "forecastMW": 9250.0,
+      "errorMW": 911.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-13T10:00:00Z",
+      "actualMW": 9401.5,
+      "forecastMW": 9334.0,
+      "errorMW": -67.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-13T11:00:00Z",
+      "actualMW": 10198.5,
+      "forecastMW": 9288.0,
+      "errorMW": -910.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-13T12:00:00Z",
+      "actualMW": 10502.0,
+      "forecastMW": 9113.0,
+      "errorMW": -1389.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-13T13:00:00Z",
+      "actualMW": 10382.5,
+      "forecastMW": 8976.0,
+      "errorMW": -1406.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-13T14:00:00Z",
+      "actualMW": 10430.0,
+      "forecastMW": 9044.0,
+      "errorMW": -1386.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-13T15:00:00Z",
+      "actualMW": 11360.5,
+      "forecastMW": 9146.0,
+      "errorMW": -2214.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-13T16:00:00Z",
+      "actualMW": 11356.5,
+      "forecastMW": 9365.0,
+      "errorMW": -1991.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-13T17:00:00Z",
+      "actualMW": 11487.5,
+      "forecastMW": 9504.0,
+      "errorMW": -1983.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-13T18:00:00Z",
+      "actualMW": 11414.0,
+      "forecastMW": 9662.0,
+      "errorMW": -1752.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-13T19:00:00Z",
+      "actualMW": 11370.0,
+      "forecastMW": 10012.0,
+      "errorMW": -1358.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-13T20:00:00Z",
+      "actualMW": 10641.0,
+      "forecastMW": 10138.0,
+      "errorMW": -503.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-13T21:00:00Z",
+      "actualMW": 9972.5,
+      "forecastMW": 10176.0,
+      "errorMW": 203.5,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-13T22:00:00Z",
+      "actualMW": 9867.0,
+      "forecastMW": 10366.0,
+      "errorMW": 499.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-13T23:00:00Z",
+      "actualMW": 9485.0,
+      "forecastMW": 10362.0,
+      "errorMW": 877.0,
+      "forecastPublishTime": "2026-01-12T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-14T00:00:00Z",
+      "actualMW": 9261.0,
+      "forecastMW": 10823.0,
+      "errorMW": 1562.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-14T01:00:00Z",
+      "actualMW": 9203.0,
+      "forecastMW": 10582.0,
+      "errorMW": 1379.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-14T02:00:00Z",
+      "actualMW": 8802.5,
+      "forecastMW": 10406.0,
+      "errorMW": 1603.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-14T03:00:00Z",
+      "actualMW": 8611.0,
+      "forecastMW": 10189.0,
+      "errorMW": 1578.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-14T04:00:00Z",
+      "actualMW": 7817.5,
+      "forecastMW": 9761.0,
+      "errorMW": 1943.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-14T05:00:00Z",
+      "actualMW": 7150.0,
+      "forecastMW": 9183.0,
+      "errorMW": 2033.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-14T06:00:00Z",
+      "actualMW": 7257.5,
+      "forecastMW": 8519.0,
+      "errorMW": 1261.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-14T07:00:00Z",
+      "actualMW": 7653.5,
+      "forecastMW": 7803.0,
+      "errorMW": 149.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-14T08:00:00Z",
+      "actualMW": 7703.5,
+      "forecastMW": 7191.0,
+      "errorMW": -512.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-14T09:00:00Z",
+      "actualMW": 7868.0,
+      "forecastMW": 6836.0,
+      "errorMW": -1032.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-14T10:00:00Z",
+      "actualMW": 7857.5,
+      "forecastMW": 6754.0,
+      "errorMW": -1103.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-14T11:00:00Z",
+      "actualMW": 7851.5,
+      "forecastMW": 6770.0,
+      "errorMW": -1081.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-14T12:00:00Z",
+      "actualMW": 8052.0,
+      "forecastMW": 6821.0,
+      "errorMW": -1231.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-14T13:00:00Z",
+      "actualMW": 8253.0,
+      "forecastMW": 6999.0,
+      "errorMW": -1254.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-14T14:00:00Z",
+      "actualMW": 8875.5,
+      "forecastMW": 7268.0,
+      "errorMW": -1607.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-14T15:00:00Z",
+      "actualMW": 9242.0,
+      "forecastMW": 7670.0,
+      "errorMW": -1572.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-14T16:00:00Z",
+      "actualMW": 9889.5,
+      "forecastMW": 8413.0,
+      "errorMW": -1476.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-14T17:00:00Z",
+      "actualMW": 10881.5,
+      "forecastMW": 9443.0,
+      "errorMW": -1438.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-14T18:00:00Z",
+      "actualMW": 11815.5,
+      "forecastMW": 10664.0,
+      "errorMW": -1151.5,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-14T19:00:00Z",
+      "actualMW": 12433.0,
+      "forecastMW": 12047.0,
+      "errorMW": -386.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-14T20:00:00Z",
+      "actualMW": 13177.0,
+      "forecastMW": 13111.0,
+      "errorMW": -66.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-14T21:00:00Z",
+      "actualMW": 13877.0,
+      "forecastMW": 13850.0,
+      "errorMW": -27.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-14T22:00:00Z",
+      "actualMW": 14326.0,
+      "forecastMW": 14342.0,
+      "errorMW": 16.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-14T23:00:00Z",
+      "actualMW": 14237.0,
+      "forecastMW": 14630.0,
+      "errorMW": 393.0,
+      "forecastPublishTime": "2026-01-13T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-15T00:00:00Z",
+      "actualMW": 14456.5,
+      "forecastMW": 15834.0,
+      "errorMW": 1377.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-15T01:00:00Z",
+      "actualMW": 14358.0,
+      "forecastMW": 15478.0,
+      "errorMW": 1120.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-15T02:00:00Z",
+      "actualMW": 14368.0,
+      "forecastMW": 15066.0,
+      "errorMW": 698.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-15T03:00:00Z",
+      "actualMW": 14139.0,
+      "forecastMW": 14655.0,
+      "errorMW": 516.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-15T04:00:00Z",
+      "actualMW": 13807.0,
+      "forecastMW": 14497.0,
+      "errorMW": 690.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-15T05:00:00Z",
+      "actualMW": 13546.5,
+      "forecastMW": 14419.0,
+      "errorMW": 872.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-15T06:00:00Z",
+      "actualMW": 13387.0,
+      "forecastMW": 14017.0,
+      "errorMW": 630.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-15T07:00:00Z",
+      "actualMW": 13169.0,
+      "forecastMW": 13411.0,
+      "errorMW": 242.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-15T08:00:00Z",
+      "actualMW": 12510.5,
+      "forecastMW": 12931.0,
+      "errorMW": 420.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-15T09:00:00Z",
+      "actualMW": 12193.0,
+      "forecastMW": 12576.0,
+      "errorMW": 383.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-15T10:00:00Z",
+      "actualMW": 10555.0,
+      "forecastMW": 12081.0,
+      "errorMW": 1526.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-15T11:00:00Z",
+      "actualMW": 9765.5,
+      "forecastMW": 11578.0,
+      "errorMW": 1812.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-15T12:00:00Z",
+      "actualMW": 9790.5,
+      "forecastMW": 11049.0,
+      "errorMW": 1258.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-15T13:00:00Z",
+      "actualMW": 8807.0,
+      "forecastMW": 10378.0,
+      "errorMW": 1571.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-15T14:00:00Z",
+      "actualMW": 8324.0,
+      "forecastMW": 9619.0,
+      "errorMW": 1295.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-15T15:00:00Z",
+      "actualMW": 8545.0,
+      "forecastMW": 9050.0,
+      "errorMW": 505.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-15T16:00:00Z",
+      "actualMW": 8460.5,
+      "forecastMW": 8864.0,
+      "errorMW": 403.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-15T17:00:00Z",
+      "actualMW": 8135.0,
+      "forecastMW": 8870.0,
+      "errorMW": 735.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-15T18:00:00Z",
+      "actualMW": 7632.5,
+      "forecastMW": 8962.0,
+      "errorMW": 1329.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-15T19:00:00Z",
+      "actualMW": 7615.0,
+      "forecastMW": 9130.0,
+      "errorMW": 1515.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-15T20:00:00Z",
+      "actualMW": 7387.5,
+      "forecastMW": 9059.0,
+      "errorMW": 1671.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-15T21:00:00Z",
+      "actualMW": 7783.5,
+      "forecastMW": 9049.0,
+      "errorMW": 1265.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-15T22:00:00Z",
+      "actualMW": 7558.0,
+      "forecastMW": 9091.0,
+      "errorMW": 1533.0,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-15T23:00:00Z",
+      "actualMW": 7332.5,
+      "forecastMW": 8966.0,
+      "errorMW": 1633.5,
+      "forecastPublishTime": "2026-01-14T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-16T00:00:00Z",
+      "actualMW": 7335.5,
+      "forecastMW": 7398.0,
+      "errorMW": 62.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-16T01:00:00Z",
+      "actualMW": 7084.0,
+      "forecastMW": 7008.0,
+      "errorMW": -76.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-16T02:00:00Z",
+      "actualMW": 6919.5,
+      "forecastMW": 6731.0,
+      "errorMW": -188.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-16T03:00:00Z",
+      "actualMW": 7162.5,
+      "forecastMW": 6555.0,
+      "errorMW": -607.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-16T04:00:00Z",
+      "actualMW": 6886.5,
+      "forecastMW": 6355.0,
+      "errorMW": -531.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-16T05:00:00Z",
+      "actualMW": 6077.5,
+      "forecastMW": 6288.0,
+      "errorMW": 210.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-16T06:00:00Z",
+      "actualMW": 5228.5,
+      "forecastMW": 6242.0,
+      "errorMW": 1013.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-16T07:00:00Z",
+      "actualMW": 5840.0,
+      "forecastMW": 6338.0,
+      "errorMW": 498.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-16T08:00:00Z",
+      "actualMW": 5778.5,
+      "forecastMW": 6594.0,
+      "errorMW": 815.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-16T09:00:00Z",
+      "actualMW": 6450.0,
+      "forecastMW": 7064.0,
+      "errorMW": 614.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-16T10:00:00Z",
+      "actualMW": 7789.0,
+      "forecastMW": 7566.0,
+      "errorMW": -223.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-16T11:00:00Z",
+      "actualMW": 8585.5,
+      "forecastMW": 7814.0,
+      "errorMW": -771.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-16T12:00:00Z",
+      "actualMW": 8766.5,
+      "forecastMW": 7779.0,
+      "errorMW": -987.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-16T13:00:00Z",
+      "actualMW": 8779.0,
+      "forecastMW": 7612.0,
+      "errorMW": -1167.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-16T14:00:00Z",
+      "actualMW": 8182.0,
+      "forecastMW": 7565.0,
+      "errorMW": -617.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-16T15:00:00Z",
+      "actualMW": 7473.5,
+      "forecastMW": 7827.0,
+      "errorMW": 353.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-16T16:00:00Z",
+      "actualMW": 7297.5,
+      "forecastMW": 8377.0,
+      "errorMW": 1079.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-16T17:00:00Z",
+      "actualMW": 7365.5,
+      "forecastMW": 8977.0,
+      "errorMW": 1611.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-16T18:00:00Z",
+      "actualMW": 8392.5,
+      "forecastMW": 9511.0,
+      "errorMW": 1118.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-16T19:00:00Z",
+      "actualMW": 9206.5,
+      "forecastMW": 9961.0,
+      "errorMW": 754.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-16T20:00:00Z",
+      "actualMW": 9020.0,
+      "forecastMW": 10267.0,
+      "errorMW": 1247.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-16T21:00:00Z",
+      "actualMW": 8273.5,
+      "forecastMW": 10375.0,
+      "errorMW": 2101.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-16T22:00:00Z",
+      "actualMW": 8824.5,
+      "forecastMW": 10207.0,
+      "errorMW": 1382.5,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-16T23:00:00Z",
+      "actualMW": 9165.0,
+      "forecastMW": 9919.0,
+      "errorMW": 754.0,
+      "forecastPublishTime": "2026-01-15T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-17T00:00:00Z",
+      "actualMW": 8901.5,
+      "forecastMW": 9368.0,
+      "errorMW": 466.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-17T01:00:00Z",
+      "actualMW": 8604.5,
+      "forecastMW": 9559.0,
+      "errorMW": 954.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-17T02:00:00Z",
+      "actualMW": 8034.0,
+      "forecastMW": 9761.0,
+      "errorMW": 1727.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-17T03:00:00Z",
+      "actualMW": 7687.5,
+      "forecastMW": 9902.0,
+      "errorMW": 2214.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-17T04:00:00Z",
+      "actualMW": 7894.5,
+      "forecastMW": 9928.0,
+      "errorMW": 2033.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-17T05:00:00Z",
+      "actualMW": 7862.0,
+      "forecastMW": 9768.0,
+      "errorMW": 1906.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-17T06:00:00Z",
+      "actualMW": 8027.5,
+      "forecastMW": 9611.0,
+      "errorMW": 1583.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-17T07:00:00Z",
+      "actualMW": 7651.0,
+      "forecastMW": 9512.0,
+      "errorMW": 1861.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-17T08:00:00Z",
+      "actualMW": 6813.5,
+      "forecastMW": 9176.0,
+      "errorMW": 2362.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-17T09:00:00Z",
+      "actualMW": 6014.5,
+      "forecastMW": 8574.0,
+      "errorMW": 2559.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-17T10:00:00Z",
+      "actualMW": 5432.0,
+      "forecastMW": 8044.0,
+      "errorMW": 2612.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-17T11:00:00Z",
+      "actualMW": 5289.0,
+      "forecastMW": 7475.0,
+      "errorMW": 2186.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-17T12:00:00Z",
+      "actualMW": 4847.5,
+      "forecastMW": 6786.0,
+      "errorMW": 1938.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-17T13:00:00Z",
+      "actualMW": 4078.0,
+      "forecastMW": 6231.0,
+      "errorMW": 2153.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-17T14:00:00Z",
+      "actualMW": 3933.5,
+      "forecastMW": 5875.0,
+      "errorMW": 1941.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-17T15:00:00Z",
+      "actualMW": 3932.5,
+      "forecastMW": 5645.0,
+      "errorMW": 1712.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-17T16:00:00Z",
+      "actualMW": 4028.0,
+      "forecastMW": 5470.0,
+      "errorMW": 1442.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-17T17:00:00Z",
+      "actualMW": 3955.0,
+      "forecastMW": 5290.0,
+      "errorMW": 1335.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-17T18:00:00Z",
+      "actualMW": 3931.5,
+      "forecastMW": 5597.0,
+      "errorMW": 1665.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-17T19:00:00Z",
+      "actualMW": 3771.0,
+      "forecastMW": 5608.0,
+      "errorMW": 1837.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-17T20:00:00Z",
+      "actualMW": 3780.0,
+      "forecastMW": 5399.0,
+      "errorMW": 1619.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-17T21:00:00Z",
+      "actualMW": 3872.5,
+      "forecastMW": 5100.0,
+      "errorMW": 1227.5,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-17T22:00:00Z",
+      "actualMW": 3636.0,
+      "forecastMW": 4761.0,
+      "errorMW": 1125.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-17T23:00:00Z",
+      "actualMW": 3550.0,
+      "forecastMW": 4530.0,
+      "errorMW": 980.0,
+      "forecastPublishTime": "2026-01-16T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-18T00:00:00Z",
+      "actualMW": 3090.0,
+      "forecastMW": 4252.0,
+      "errorMW": 1162.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-18T01:00:00Z",
+      "actualMW": 2710.0,
+      "forecastMW": 4176.0,
+      "errorMW": 1466.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-18T02:00:00Z",
+      "actualMW": 2741.0,
+      "forecastMW": 4254.0,
+      "errorMW": 1513.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-18T03:00:00Z",
+      "actualMW": 2914.0,
+      "forecastMW": 4445.0,
+      "errorMW": 1531.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-18T04:00:00Z",
+      "actualMW": 3155.5,
+      "forecastMW": 4793.0,
+      "errorMW": 1637.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-18T05:00:00Z",
+      "actualMW": 3841.5,
+      "forecastMW": 5217.0,
+      "errorMW": 1375.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-18T06:00:00Z",
+      "actualMW": 4064.0,
+      "forecastMW": 5656.0,
+      "errorMW": 1592.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-18T07:00:00Z",
+      "actualMW": 4428.0,
+      "forecastMW": 6132.0,
+      "errorMW": 1704.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-18T08:00:00Z",
+      "actualMW": 4965.5,
+      "forecastMW": 6437.0,
+      "errorMW": 1471.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-18T09:00:00Z",
+      "actualMW": 4779.5,
+      "forecastMW": 6760.0,
+      "errorMW": 1980.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-18T10:00:00Z",
+      "actualMW": 5302.5,
+      "forecastMW": 7072.0,
+      "errorMW": 1769.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-18T11:00:00Z",
+      "actualMW": 5605.5,
+      "forecastMW": 7182.0,
+      "errorMW": 1576.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-18T12:00:00Z",
+      "actualMW": 5609.0,
+      "forecastMW": 7030.0,
+      "errorMW": 1421.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-18T13:00:00Z",
+      "actualMW": 5803.0,
+      "forecastMW": 6814.0,
+      "errorMW": 1011.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-18T14:00:00Z",
+      "actualMW": 5688.0,
+      "forecastMW": 6765.0,
+      "errorMW": 1077.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-18T15:00:00Z",
+      "actualMW": 5769.0,
+      "forecastMW": 6955.0,
+      "errorMW": 1186.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-18T16:00:00Z",
+      "actualMW": 5644.0,
+      "forecastMW": 7224.0,
+      "errorMW": 1580.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-18T17:00:00Z",
+      "actualMW": 5979.0,
+      "forecastMW": 7661.0,
+      "errorMW": 1682.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-18T18:00:00Z",
+      "actualMW": 6028.5,
+      "forecastMW": 8141.0,
+      "errorMW": 2112.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-18T19:00:00Z",
+      "actualMW": 5857.0,
+      "forecastMW": 8342.0,
+      "errorMW": 2485.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-18T20:00:00Z",
+      "actualMW": 5863.5,
+      "forecastMW": 8265.0,
+      "errorMW": 2401.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-18T21:00:00Z",
+      "actualMW": 6253.0,
+      "forecastMW": 8080.0,
+      "errorMW": 1827.0,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-18T22:00:00Z",
+      "actualMW": 6536.5,
+      "forecastMW": 7766.0,
+      "errorMW": 1229.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-18T23:00:00Z",
+      "actualMW": 6819.5,
+      "forecastMW": 7344.0,
+      "errorMW": 524.5,
+      "forecastPublishTime": "2026-01-17T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-19T00:00:00Z",
+      "actualMW": 6593.0,
+      "forecastMW": 6035.0,
+      "errorMW": -558.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-19T01:00:00Z",
+      "actualMW": 5550.0,
+      "forecastMW": 5623.0,
+      "errorMW": 73.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-19T02:00:00Z",
+      "actualMW": 5647.5,
+      "forecastMW": 5317.0,
+      "errorMW": -330.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-19T03:00:00Z",
+      "actualMW": 5851.0,
+      "forecastMW": 5210.0,
+      "errorMW": -641.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-19T04:00:00Z",
+      "actualMW": 5741.5,
+      "forecastMW": 5195.0,
+      "errorMW": -546.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-19T05:00:00Z",
+      "actualMW": 5689.0,
+      "forecastMW": 5084.0,
+      "errorMW": -605.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-19T06:00:00Z",
+      "actualMW": 5768.5,
+      "forecastMW": 4939.0,
+      "errorMW": -829.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-19T07:00:00Z",
+      "actualMW": 5730.5,
+      "forecastMW": 4898.0,
+      "errorMW": -832.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-19T08:00:00Z",
+      "actualMW": 5538.0,
+      "forecastMW": 4940.0,
+      "errorMW": -598.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-19T09:00:00Z",
+      "actualMW": 5309.0,
+      "forecastMW": 4916.0,
+      "errorMW": -393.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-19T10:00:00Z",
+      "actualMW": 5378.5,
+      "forecastMW": 4828.0,
+      "errorMW": -550.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-19T11:00:00Z",
+      "actualMW": 5486.0,
+      "forecastMW": 4765.0,
+      "errorMW": -721.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-19T12:00:00Z",
+      "actualMW": 5459.5,
+      "forecastMW": 4610.0,
+      "errorMW": -849.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-19T13:00:00Z",
+      "actualMW": 5344.5,
+      "forecastMW": 4366.0,
+      "errorMW": -978.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-19T14:00:00Z",
+      "actualMW": 4976.5,
+      "forecastMW": 4217.0,
+      "errorMW": -759.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-19T15:00:00Z",
+      "actualMW": 5156.5,
+      "forecastMW": 4337.0,
+      "errorMW": -819.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-19T16:00:00Z",
+      "actualMW": 5711.5,
+      "forecastMW": 4718.0,
+      "errorMW": -993.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-19T17:00:00Z",
+      "actualMW": 6266.0,
+      "forecastMW": 5186.0,
+      "errorMW": -1080.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-19T18:00:00Z",
+      "actualMW": 7138.5,
+      "forecastMW": 6348.0,
+      "errorMW": -790.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-19T19:00:00Z",
+      "actualMW": 8063.5,
+      "forecastMW": 7433.0,
+      "errorMW": -630.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-19T20:00:00Z",
+      "actualMW": 8707.0,
+      "forecastMW": 8242.0,
+      "errorMW": -465.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-19T21:00:00Z",
+      "actualMW": 9267.0,
+      "forecastMW": 8818.0,
+      "errorMW": -449.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-19T22:00:00Z",
+      "actualMW": 10737.0,
+      "forecastMW": 9343.0,
+      "errorMW": -1394.0,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-19T23:00:00Z",
+      "actualMW": 11515.5,
+      "forecastMW": 9736.0,
+      "errorMW": -1779.5,
+      "forecastPublishTime": "2026-01-18T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-20T00:00:00Z",
+      "actualMW": 12427.5,
+      "forecastMW": 11822.0,
+      "errorMW": -605.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-20T01:00:00Z",
+      "actualMW": 12625.5,
+      "forecastMW": 12148.0,
+      "errorMW": -477.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-20T02:00:00Z",
+      "actualMW": 12654.0,
+      "forecastMW": 12461.0,
+      "errorMW": -193.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-20T03:00:00Z",
+      "actualMW": 12884.5,
+      "forecastMW": 12717.0,
+      "errorMW": -167.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-20T04:00:00Z",
+      "actualMW": 12981.5,
+      "forecastMW": 12965.0,
+      "errorMW": -16.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-20T05:00:00Z",
+      "actualMW": 13632.5,
+      "forecastMW": 13124.0,
+      "errorMW": -508.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-20T06:00:00Z",
+      "actualMW": 13555.0,
+      "forecastMW": 13336.0,
+      "errorMW": -219.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-20T07:00:00Z",
+      "actualMW": 14199.0,
+      "forecastMW": 13669.0,
+      "errorMW": -530.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-20T08:00:00Z",
+      "actualMW": 14867.5,
+      "forecastMW": 13976.0,
+      "errorMW": -891.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-20T09:00:00Z",
+      "actualMW": 14422.0,
+      "forecastMW": 14275.0,
+      "errorMW": -147.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-20T10:00:00Z",
+      "actualMW": 14709.5,
+      "forecastMW": 14542.0,
+      "errorMW": -167.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-20T11:00:00Z",
+      "actualMW": 15164.0,
+      "forecastMW": 14668.0,
+      "errorMW": -496.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-20T12:00:00Z",
+      "actualMW": 15987.5,
+      "forecastMW": 14802.0,
+      "errorMW": -1185.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-20T13:00:00Z",
+      "actualMW": 16028.5,
+      "forecastMW": 15031.0,
+      "errorMW": -997.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-20T14:00:00Z",
+      "actualMW": 16512.0,
+      "forecastMW": 15361.0,
+      "errorMW": -1151.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-20T15:00:00Z",
+      "actualMW": 16725.0,
+      "forecastMW": 16045.0,
+      "errorMW": -680.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-20T16:00:00Z",
+      "actualMW": 16511.0,
+      "forecastMW": 16998.0,
+      "errorMW": 487.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-20T17:00:00Z",
+      "actualMW": 16887.5,
+      "forecastMW": 17884.0,
+      "errorMW": 996.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-20T18:00:00Z",
+      "actualMW": 16939.0,
+      "forecastMW": 18503.0,
+      "errorMW": 1564.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-20T19:00:00Z",
+      "actualMW": 16981.0,
+      "forecastMW": 19001.0,
+      "errorMW": 2020.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-20T20:00:00Z",
+      "actualMW": 16918.5,
+      "forecastMW": 19339.0,
+      "errorMW": 2420.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-20T21:00:00Z",
+      "actualMW": 16604.0,
+      "forecastMW": 19501.0,
+      "errorMW": 2897.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-20T22:00:00Z",
+      "actualMW": 16605.5,
+      "forecastMW": 19654.0,
+      "errorMW": 3048.5,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-20T23:00:00Z",
+      "actualMW": 16304.0,
+      "forecastMW": 19748.0,
+      "errorMW": 3444.0,
+      "forecastPublishTime": "2026-01-19T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-21T00:00:00Z",
+      "actualMW": 15856.0,
+      "forecastMW": 19793.0,
+      "errorMW": 3937.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-21T01:00:00Z",
+      "actualMW": 15391.0,
+      "forecastMW": 19576.0,
+      "errorMW": 4185.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-21T02:00:00Z",
+      "actualMW": 14974.5,
+      "forecastMW": 19305.0,
+      "errorMW": 4330.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-21T03:00:00Z",
+      "actualMW": 14416.0,
+      "forecastMW": 18928.0,
+      "errorMW": 4512.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-21T04:00:00Z",
+      "actualMW": 13781.0,
+      "forecastMW": 18537.0,
+      "errorMW": 4756.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-21T05:00:00Z",
+      "actualMW": 13354.0,
+      "forecastMW": 18198.0,
+      "errorMW": 4844.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-21T06:00:00Z",
+      "actualMW": 13067.5,
+      "forecastMW": 17898.0,
+      "errorMW": 4830.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-21T07:00:00Z",
+      "actualMW": 12909.0,
+      "forecastMW": 17726.0,
+      "errorMW": 4817.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-21T08:00:00Z",
+      "actualMW": 14020.5,
+      "forecastMW": 17630.0,
+      "errorMW": 3609.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-21T09:00:00Z",
+      "actualMW": 14693.0,
+      "forecastMW": 17694.0,
+      "errorMW": 3001.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-21T10:00:00Z",
+      "actualMW": 15875.5,
+      "forecastMW": 17879.0,
+      "errorMW": 2003.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-21T11:00:00Z",
+      "actualMW": 16132.0,
+      "forecastMW": 18220.0,
+      "errorMW": 2088.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-21T12:00:00Z",
+      "actualMW": 16419.0,
+      "forecastMW": 18581.0,
+      "errorMW": 2162.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-21T13:00:00Z",
+      "actualMW": 16956.5,
+      "forecastMW": 19158.0,
+      "errorMW": 2201.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-21T14:00:00Z",
+      "actualMW": 16821.0,
+      "forecastMW": 19633.0,
+      "errorMW": 2812.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-21T15:00:00Z",
+      "actualMW": 16785.5,
+      "forecastMW": 20136.0,
+      "errorMW": 3350.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-21T16:00:00Z",
+      "actualMW": 16432.5,
+      "forecastMW": 20607.0,
+      "errorMW": 4174.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-21T17:00:00Z",
+      "actualMW": 16530.5,
+      "forecastMW": 20918.0,
+      "errorMW": 4387.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-21T18:00:00Z",
+      "actualMW": 16958.5,
+      "forecastMW": 21027.0,
+      "errorMW": 4068.5,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-21T19:00:00Z",
+      "actualMW": 17003.0,
+      "forecastMW": 21064.0,
+      "errorMW": 4061.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-21T20:00:00Z",
+      "actualMW": 17171.0,
+      "forecastMW": 21014.0,
+      "errorMW": 3843.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-21T21:00:00Z",
+      "actualMW": 17530.0,
+      "forecastMW": 20806.0,
+      "errorMW": 3276.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-21T22:00:00Z",
+      "actualMW": 17370.0,
+      "forecastMW": 20588.0,
+      "errorMW": 3218.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-21T23:00:00Z",
+      "actualMW": 17113.0,
+      "forecastMW": 20444.0,
+      "errorMW": 3331.0,
+      "forecastPublishTime": "2026-01-20T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-22T00:00:00Z",
+      "actualMW": 16815.5,
+      "forecastMW": 19746.0,
+      "errorMW": 2930.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-22T01:00:00Z",
+      "actualMW": 16559.5,
+      "forecastMW": 19600.0,
+      "errorMW": 3040.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-22T02:00:00Z",
+      "actualMW": 15963.5,
+      "forecastMW": 19427.0,
+      "errorMW": 3463.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-22T03:00:00Z",
+      "actualMW": 15789.0,
+      "forecastMW": 19288.0,
+      "errorMW": 3499.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-22T04:00:00Z",
+      "actualMW": 15614.0,
+      "forecastMW": 19140.0,
+      "errorMW": 3526.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-22T05:00:00Z",
+      "actualMW": 15444.5,
+      "forecastMW": 18973.0,
+      "errorMW": 3528.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-22T06:00:00Z",
+      "actualMW": 15646.5,
+      "forecastMW": 18775.0,
+      "errorMW": 3128.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-22T07:00:00Z",
+      "actualMW": 15478.0,
+      "forecastMW": 18558.0,
+      "errorMW": 3080.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-22T08:00:00Z",
+      "actualMW": 15702.5,
+      "forecastMW": 18478.0,
+      "errorMW": 2775.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-22T09:00:00Z",
+      "actualMW": 15550.5,
+      "forecastMW": 18566.0,
+      "errorMW": 3015.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-22T10:00:00Z",
+      "actualMW": 14985.5,
+      "forecastMW": 18666.0,
+      "errorMW": 3680.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-22T11:00:00Z",
+      "actualMW": 15037.0,
+      "forecastMW": 18737.0,
+      "errorMW": 3700.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-22T12:00:00Z",
+      "actualMW": 15483.0,
+      "forecastMW": 18871.0,
+      "errorMW": 3388.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-22T13:00:00Z",
+      "actualMW": 16015.5,
+      "forecastMW": 18987.0,
+      "errorMW": 2971.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-22T14:00:00Z",
+      "actualMW": 16351.0,
+      "forecastMW": 19104.0,
+      "errorMW": 2753.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-22T15:00:00Z",
+      "actualMW": 16904.5,
+      "forecastMW": 19205.0,
+      "errorMW": 2300.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-22T16:00:00Z",
+      "actualMW": 17223.5,
+      "forecastMW": 19268.0,
+      "errorMW": 2044.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-22T17:00:00Z",
+      "actualMW": 17427.0,
+      "forecastMW": 19258.0,
+      "errorMW": 1831.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-22T18:00:00Z",
+      "actualMW": 17586.5,
+      "forecastMW": 19179.0,
+      "errorMW": 1592.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-22T19:00:00Z",
+      "actualMW": 17281.5,
+      "forecastMW": 18905.0,
+      "errorMW": 1623.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-22T20:00:00Z",
+      "actualMW": 17071.0,
+      "forecastMW": 18529.0,
+      "errorMW": 1458.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-22T21:00:00Z",
+      "actualMW": 16728.5,
+      "forecastMW": 18047.0,
+      "errorMW": 1318.5,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-22T22:00:00Z",
+      "actualMW": 16234.0,
+      "forecastMW": 17730.0,
+      "errorMW": 1496.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-22T23:00:00Z",
+      "actualMW": 15635.0,
+      "forecastMW": 17483.0,
+      "errorMW": 1848.0,
+      "forecastPublishTime": "2026-01-21T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-23T00:00:00Z",
+      "actualMW": 15125.5,
+      "forecastMW": 17877.0,
+      "errorMW": 2751.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-23T01:00:00Z",
+      "actualMW": 14925.0,
+      "forecastMW": 17393.0,
+      "errorMW": 2468.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-23T02:00:00Z",
+      "actualMW": 14861.0,
+      "forecastMW": 17038.0,
+      "errorMW": 2177.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-23T03:00:00Z",
+      "actualMW": 14426.0,
+      "forecastMW": 16630.0,
+      "errorMW": 2204.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-23T04:00:00Z",
+      "actualMW": 14428.0,
+      "forecastMW": 16212.0,
+      "errorMW": 1784.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-23T05:00:00Z",
+      "actualMW": 14652.0,
+      "forecastMW": 16043.0,
+      "errorMW": 1391.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-23T06:00:00Z",
+      "actualMW": 14968.0,
+      "forecastMW": 16167.0,
+      "errorMW": 1199.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-23T07:00:00Z",
+      "actualMW": 15461.0,
+      "forecastMW": 16630.0,
+      "errorMW": 1169.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-23T08:00:00Z",
+      "actualMW": 15981.0,
+      "forecastMW": 17216.0,
+      "errorMW": 1235.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-23T09:00:00Z",
+      "actualMW": 15963.5,
+      "forecastMW": 17760.0,
+      "errorMW": 1796.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-23T10:00:00Z",
+      "actualMW": 16237.0,
+      "forecastMW": 18103.0,
+      "errorMW": 1866.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-23T11:00:00Z",
+      "actualMW": 16421.0,
+      "forecastMW": 18248.0,
+      "errorMW": 1827.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-23T12:00:00Z",
+      "actualMW": 16582.5,
+      "forecastMW": 18355.0,
+      "errorMW": 1772.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-23T13:00:00Z",
+      "actualMW": 16612.5,
+      "forecastMW": 18435.0,
+      "errorMW": 1822.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-23T14:00:00Z",
+      "actualMW": 16976.0,
+      "forecastMW": 18438.0,
+      "errorMW": 1462.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-23T15:00:00Z",
+      "actualMW": 17322.0,
+      "forecastMW": 18380.0,
+      "errorMW": 1058.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-23T16:00:00Z",
+      "actualMW": 17344.0,
+      "forecastMW": 18339.0,
+      "errorMW": 995.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-23T17:00:00Z",
+      "actualMW": 17267.5,
+      "forecastMW": 18334.0,
+      "errorMW": 1066.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-23T18:00:00Z",
+      "actualMW": 17358.5,
+      "forecastMW": 18385.0,
+      "errorMW": 1026.5,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-23T19:00:00Z",
+      "actualMW": 17465.0,
+      "forecastMW": 18400.0,
+      "errorMW": 935.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-23T20:00:00Z",
+      "actualMW": 17418.0,
+      "forecastMW": 18277.0,
+      "errorMW": 859.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-23T21:00:00Z",
+      "actualMW": 17079.0,
+      "forecastMW": 18013.0,
+      "errorMW": 934.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-23T22:00:00Z",
+      "actualMW": 16585.0,
+      "forecastMW": 17726.0,
+      "errorMW": 1141.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-23T23:00:00Z",
+      "actualMW": 16055.0,
+      "forecastMW": 17471.0,
+      "errorMW": 1416.0,
+      "forecastPublishTime": "2026-01-22T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-24T00:00:00Z",
+      "actualMW": 15668.0,
+      "forecastMW": 18097.0,
+      "errorMW": 2429.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-24T01:00:00Z",
+      "actualMW": 15251.0,
+      "forecastMW": 17889.0,
+      "errorMW": 2638.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-24T02:00:00Z",
+      "actualMW": 15101.5,
+      "forecastMW": 17799.0,
+      "errorMW": 2697.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-24T03:00:00Z",
+      "actualMW": 15419.5,
+      "forecastMW": 17794.0,
+      "errorMW": 2374.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-24T04:00:00Z",
+      "actualMW": 15406.5,
+      "forecastMW": 17807.0,
+      "errorMW": 2400.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-24T05:00:00Z",
+      "actualMW": 15080.0,
+      "forecastMW": 17794.0,
+      "errorMW": 2714.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-24T06:00:00Z",
+      "actualMW": 14481.0,
+      "forecastMW": 17793.0,
+      "errorMW": 3312.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-24T07:00:00Z",
+      "actualMW": 14543.5,
+      "forecastMW": 17827.0,
+      "errorMW": 3283.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-24T08:00:00Z",
+      "actualMW": 14265.0,
+      "forecastMW": 17818.0,
+      "errorMW": 3553.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-24T09:00:00Z",
+      "actualMW": 14472.5,
+      "forecastMW": 17700.0,
+      "errorMW": 3227.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-24T10:00:00Z",
+      "actualMW": 14829.0,
+      "forecastMW": 17567.0,
+      "errorMW": 2738.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-24T11:00:00Z",
+      "actualMW": 14665.0,
+      "forecastMW": 17440.0,
+      "errorMW": 2775.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-24T12:00:00Z",
+      "actualMW": 14539.5,
+      "forecastMW": 17263.0,
+      "errorMW": 2723.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-24T13:00:00Z",
+      "actualMW": 14932.5,
+      "forecastMW": 17119.0,
+      "errorMW": 2186.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-24T14:00:00Z",
+      "actualMW": 15705.0,
+      "forecastMW": 17119.0,
+      "errorMW": 1414.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-24T15:00:00Z",
+      "actualMW": 16576.5,
+      "forecastMW": 17294.0,
+      "errorMW": 717.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-24T16:00:00Z",
+      "actualMW": 17208.0,
+      "forecastMW": 17522.0,
+      "errorMW": 314.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-24T17:00:00Z",
+      "actualMW": 17609.5,
+      "forecastMW": 17757.0,
+      "errorMW": 147.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-24T18:00:00Z",
+      "actualMW": 17755.5,
+      "forecastMW": 18049.0,
+      "errorMW": 293.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-24T19:00:00Z",
+      "actualMW": 17612.0,
+      "forecastMW": 18337.0,
+      "errorMW": 725.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-24T20:00:00Z",
+      "actualMW": 17726.5,
+      "forecastMW": 18429.0,
+      "errorMW": 702.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-24T21:00:00Z",
+      "actualMW": 17536.5,
+      "forecastMW": 18384.0,
+      "errorMW": 847.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-24T22:00:00Z",
+      "actualMW": 17296.5,
+      "forecastMW": 18269.0,
+      "errorMW": 972.5,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-24T23:00:00Z",
+      "actualMW": 17132.0,
+      "forecastMW": 18168.0,
+      "errorMW": 1036.0,
+      "forecastPublishTime": "2026-01-23T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-25T00:00:00Z",
+      "actualMW": 17099.5,
+      "forecastMW": 19008.0,
+      "errorMW": 1908.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-25T01:00:00Z",
+      "actualMW": 16522.0,
+      "forecastMW": 18811.0,
+      "errorMW": 2289.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-25T02:00:00Z",
+      "actualMW": 15985.5,
+      "forecastMW": 18628.0,
+      "errorMW": 2642.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-25T03:00:00Z",
+      "actualMW": 15534.0,
+      "forecastMW": 18374.0,
+      "errorMW": 2840.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-25T04:00:00Z",
+      "actualMW": 15775.0,
+      "forecastMW": 18069.0,
+      "errorMW": 2294.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-25T05:00:00Z",
+      "actualMW": 15522.0,
+      "forecastMW": 17759.0,
+      "errorMW": 2237.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-25T06:00:00Z",
+      "actualMW": 15352.0,
+      "forecastMW": 17480.0,
+      "errorMW": 2128.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-25T07:00:00Z",
+      "actualMW": 15140.5,
+      "forecastMW": 17274.0,
+      "errorMW": 2133.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-25T08:00:00Z",
+      "actualMW": 14938.5,
+      "forecastMW": 17073.0,
+      "errorMW": 2134.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-25T09:00:00Z",
+      "actualMW": 14663.5,
+      "forecastMW": 16754.0,
+      "errorMW": 2090.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-25T10:00:00Z",
+      "actualMW": 14789.5,
+      "forecastMW": 16366.0,
+      "errorMW": 1576.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-25T11:00:00Z",
+      "actualMW": 14640.0,
+      "forecastMW": 15889.0,
+      "errorMW": 1249.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-25T12:00:00Z",
+      "actualMW": 14589.5,
+      "forecastMW": 15307.0,
+      "errorMW": 717.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-25T13:00:00Z",
+      "actualMW": 14233.0,
+      "forecastMW": 14746.0,
+      "errorMW": 513.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-25T14:00:00Z",
+      "actualMW": 13795.5,
+      "forecastMW": 14337.0,
+      "errorMW": 541.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-25T15:00:00Z",
+      "actualMW": 13471.5,
+      "forecastMW": 14087.0,
+      "errorMW": 615.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-25T16:00:00Z",
+      "actualMW": 12999.5,
+      "forecastMW": 13934.0,
+      "errorMW": 934.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-25T17:00:00Z",
+      "actualMW": 12571.5,
+      "forecastMW": 13839.0,
+      "errorMW": 1267.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-25T18:00:00Z",
+      "actualMW": 11900.5,
+      "forecastMW": 13692.0,
+      "errorMW": 1791.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-25T19:00:00Z",
+      "actualMW": 10910.5,
+      "forecastMW": 13318.0,
+      "errorMW": 2407.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-25T20:00:00Z",
+      "actualMW": 10263.5,
+      "forecastMW": 12736.0,
+      "errorMW": 2472.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-25T21:00:00Z",
+      "actualMW": 9388.5,
+      "forecastMW": 12049.0,
+      "errorMW": 2660.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-25T22:00:00Z",
+      "actualMW": 8342.5,
+      "forecastMW": 11424.0,
+      "errorMW": 3081.5,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-25T23:00:00Z",
+      "actualMW": 8026.0,
+      "forecastMW": 10890.0,
+      "errorMW": 2864.0,
+      "forecastPublishTime": "2026-01-24T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-26T00:00:00Z",
+      "actualMW": 7933.5,
+      "forecastMW": 8594.0,
+      "errorMW": 660.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-26T01:00:00Z",
+      "actualMW": 7619.5,
+      "forecastMW": 8406.0,
+      "errorMW": 786.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-26T02:00:00Z",
+      "actualMW": 7793.0,
+      "forecastMW": 8427.0,
+      "errorMW": 634.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-26T03:00:00Z",
+      "actualMW": 8163.5,
+      "forecastMW": 8571.0,
+      "errorMW": 407.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-26T04:00:00Z",
+      "actualMW": 7983.0,
+      "forecastMW": 8681.0,
+      "errorMW": 698.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-26T05:00:00Z",
+      "actualMW": 7738.0,
+      "forecastMW": 8713.0,
+      "errorMW": 975.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-26T06:00:00Z",
+      "actualMW": 7786.0,
+      "forecastMW": 8904.0,
+      "errorMW": 1118.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-26T07:00:00Z",
+      "actualMW": 8028.5,
+      "forecastMW": 9337.0,
+      "errorMW": 1308.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-26T08:00:00Z",
+      "actualMW": 8389.0,
+      "forecastMW": 9818.0,
+      "errorMW": 1429.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-26T09:00:00Z",
+      "actualMW": 8703.5,
+      "forecastMW": 10307.0,
+      "errorMW": 1603.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-26T10:00:00Z",
+      "actualMW": 8847.0,
+      "forecastMW": 10943.0,
+      "errorMW": 2096.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-26T11:00:00Z",
+      "actualMW": 9025.5,
+      "forecastMW": 11594.0,
+      "errorMW": 2568.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-26T12:00:00Z",
+      "actualMW": 9656.5,
+      "forecastMW": 12134.0,
+      "errorMW": 2477.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-26T13:00:00Z",
+      "actualMW": 9919.0,
+      "forecastMW": 12673.0,
+      "errorMW": 2754.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-26T14:00:00Z",
+      "actualMW": 10834.0,
+      "forecastMW": 13375.0,
+      "errorMW": 2541.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-26T15:00:00Z",
+      "actualMW": 11636.5,
+      "forecastMW": 14155.0,
+      "errorMW": 2518.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-26T16:00:00Z",
+      "actualMW": 11380.5,
+      "forecastMW": 14765.0,
+      "errorMW": 3384.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-26T17:00:00Z",
+      "actualMW": 11497.5,
+      "forecastMW": 15269.0,
+      "errorMW": 3771.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-26T18:00:00Z",
+      "actualMW": 12438.5,
+      "forecastMW": 15908.0,
+      "errorMW": 3469.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-26T19:00:00Z",
+      "actualMW": 13303.5,
+      "forecastMW": 16402.0,
+      "errorMW": 3098.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-26T20:00:00Z",
+      "actualMW": 14424.0,
+      "forecastMW": 16835.0,
+      "errorMW": 2411.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-26T21:00:00Z",
+      "actualMW": 15273.5,
+      "forecastMW": 17588.0,
+      "errorMW": 2314.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-26T22:00:00Z",
+      "actualMW": 15776.5,
+      "forecastMW": 18098.0,
+      "errorMW": 2321.5,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-26T23:00:00Z",
+      "actualMW": 16407.0,
+      "forecastMW": 18601.0,
+      "errorMW": 2194.0,
+      "forecastPublishTime": "2026-01-25T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-27T00:00:00Z",
+      "actualMW": 16995.5,
+      "forecastMW": 19024.0,
+      "errorMW": 2028.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-27T01:00:00Z",
+      "actualMW": 17108.0,
+      "forecastMW": 19335.0,
+      "errorMW": 2227.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-27T02:00:00Z",
+      "actualMW": 17322.5,
+      "forecastMW": 19682.0,
+      "errorMW": 2359.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-27T03:00:00Z",
+      "actualMW": 17228.5,
+      "forecastMW": 20043.0,
+      "errorMW": 2814.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-27T04:00:00Z",
+      "actualMW": 17067.0,
+      "forecastMW": 20345.0,
+      "errorMW": 3278.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-27T05:00:00Z",
+      "actualMW": 16954.5,
+      "forecastMW": 20582.0,
+      "errorMW": 3627.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-27T06:00:00Z",
+      "actualMW": 16910.0,
+      "forecastMW": 20733.0,
+      "errorMW": 3823.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-27T07:00:00Z",
+      "actualMW": 17161.0,
+      "forecastMW": 20869.0,
+      "errorMW": 3708.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-27T08:00:00Z",
+      "actualMW": 17149.0,
+      "forecastMW": 20921.0,
+      "errorMW": 3772.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-27T09:00:00Z",
+      "actualMW": 17446.5,
+      "forecastMW": 20924.0,
+      "errorMW": 3477.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-27T10:00:00Z",
+      "actualMW": 17513.0,
+      "forecastMW": 20910.0,
+      "errorMW": 3397.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-27T11:00:00Z",
+      "actualMW": 17363.0,
+      "forecastMW": 20907.0,
+      "errorMW": 3544.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-27T12:00:00Z",
+      "actualMW": 17509.0,
+      "forecastMW": 20845.0,
+      "errorMW": 3336.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-27T13:00:00Z",
+      "actualMW": 17534.0,
+      "forecastMW": 20709.0,
+      "errorMW": 3175.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-27T14:00:00Z",
+      "actualMW": 17134.5,
+      "forecastMW": 20517.0,
+      "errorMW": 3382.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-27T15:00:00Z",
+      "actualMW": 16943.0,
+      "forecastMW": 20278.0,
+      "errorMW": 3335.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-27T16:00:00Z",
+      "actualMW": 16917.0,
+      "forecastMW": 19979.0,
+      "errorMW": 3062.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-27T17:00:00Z",
+      "actualMW": 16491.5,
+      "forecastMW": 19630.0,
+      "errorMW": 3138.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-27T18:00:00Z",
+      "actualMW": 16028.5,
+      "forecastMW": 19318.0,
+      "errorMW": 3289.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-27T19:00:00Z",
+      "actualMW": 15596.0,
+      "forecastMW": 19016.0,
+      "errorMW": 3420.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-27T20:00:00Z",
+      "actualMW": 15021.5,
+      "forecastMW": 18681.0,
+      "errorMW": 3659.5,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-27T21:00:00Z",
+      "actualMW": 13942.0,
+      "forecastMW": 18374.0,
+      "errorMW": 4432.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-27T22:00:00Z",
+      "actualMW": 12997.0,
+      "forecastMW": 18025.0,
+      "errorMW": 5028.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-27T23:00:00Z",
+      "actualMW": 11472.0,
+      "forecastMW": 17656.0,
+      "errorMW": 6184.0,
+      "forecastPublishTime": "2026-01-26T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-28T00:00:00Z",
+      "actualMW": 10325.5,
+      "forecastMW": 15208.0,
+      "errorMW": 4882.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-28T01:00:00Z",
+      "actualMW": 8578.0,
+      "forecastMW": 14248.0,
+      "errorMW": 5670.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-28T02:00:00Z",
+      "actualMW": 7477.5,
+      "forecastMW": 13397.0,
+      "errorMW": 5919.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-28T03:00:00Z",
+      "actualMW": 6371.5,
+      "forecastMW": 12620.0,
+      "errorMW": 6248.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-28T04:00:00Z",
+      "actualMW": 5509.0,
+      "forecastMW": 11780.0,
+      "errorMW": 6271.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-28T05:00:00Z",
+      "actualMW": 5392.5,
+      "forecastMW": 10987.0,
+      "errorMW": 5594.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-28T06:00:00Z",
+      "actualMW": 5248.5,
+      "forecastMW": 10372.0,
+      "errorMW": 5123.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-28T07:00:00Z",
+      "actualMW": 4658.5,
+      "forecastMW": 9983.0,
+      "errorMW": 5324.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-28T08:00:00Z",
+      "actualMW": 4634.5,
+      "forecastMW": 9887.0,
+      "errorMW": 5252.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-28T09:00:00Z",
+      "actualMW": 4398.5,
+      "forecastMW": 9890.0,
+      "errorMW": 5491.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-28T10:00:00Z",
+      "actualMW": 4556.0,
+      "forecastMW": 9741.0,
+      "errorMW": 5185.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-28T11:00:00Z",
+      "actualMW": 4721.0,
+      "forecastMW": 9347.0,
+      "errorMW": 4626.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-28T12:00:00Z",
+      "actualMW": 4857.5,
+      "forecastMW": 9031.0,
+      "errorMW": 4173.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-28T13:00:00Z",
+      "actualMW": 4541.5,
+      "forecastMW": 9054.0,
+      "errorMW": 4512.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-28T14:00:00Z",
+      "actualMW": 4423.0,
+      "forecastMW": 9249.0,
+      "errorMW": 4826.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-28T15:00:00Z",
+      "actualMW": 4349.0,
+      "forecastMW": 9634.0,
+      "errorMW": 5285.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-28T16:00:00Z",
+      "actualMW": 5086.5,
+      "forecastMW": 10151.0,
+      "errorMW": 5064.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-28T17:00:00Z",
+      "actualMW": 5382.0,
+      "forecastMW": 10839.0,
+      "errorMW": 5457.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-28T18:00:00Z",
+      "actualMW": 5805.0,
+      "forecastMW": 11459.0,
+      "errorMW": 5654.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-28T19:00:00Z",
+      "actualMW": 5945.5,
+      "forecastMW": 11708.0,
+      "errorMW": 5762.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-28T20:00:00Z",
+      "actualMW": 6073.0,
+      "forecastMW": 11839.0,
+      "errorMW": 5766.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-28T21:00:00Z",
+      "actualMW": 6022.5,
+      "forecastMW": 12032.0,
+      "errorMW": 6009.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-28T22:00:00Z",
+      "actualMW": 6688.0,
+      "forecastMW": 12274.0,
+      "errorMW": 5586.0,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-28T23:00:00Z",
+      "actualMW": 7190.5,
+      "forecastMW": 12500.0,
+      "errorMW": 5309.5,
+      "forecastPublishTime": "2026-01-27T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-29T00:00:00Z",
+      "actualMW": 7591.0,
+      "forecastMW": 9124.0,
+      "errorMW": 1533.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-29T01:00:00Z",
+      "actualMW": 7989.5,
+      "forecastMW": 9229.0,
+      "errorMW": 1239.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-29T02:00:00Z",
+      "actualMW": 7893.0,
+      "forecastMW": 9319.0,
+      "errorMW": 1426.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-29T03:00:00Z",
+      "actualMW": 7858.0,
+      "forecastMW": 9540.0,
+      "errorMW": 1682.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-29T04:00:00Z",
+      "actualMW": 8136.0,
+      "forecastMW": 9727.0,
+      "errorMW": 1591.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-29T05:00:00Z",
+      "actualMW": 8441.5,
+      "forecastMW": 9925.0,
+      "errorMW": 1483.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-29T06:00:00Z",
+      "actualMW": 9062.5,
+      "forecastMW": 10298.0,
+      "errorMW": 1235.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-29T07:00:00Z",
+      "actualMW": 9605.0,
+      "forecastMW": 10705.0,
+      "errorMW": 1100.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-29T08:00:00Z",
+      "actualMW": 10052.5,
+      "forecastMW": 11184.0,
+      "errorMW": 1131.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-29T09:00:00Z",
+      "actualMW": 9865.5,
+      "forecastMW": 11624.0,
+      "errorMW": 1758.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-29T10:00:00Z",
+      "actualMW": 9692.0,
+      "forecastMW": 11870.0,
+      "errorMW": 2178.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-29T11:00:00Z",
+      "actualMW": 10029.0,
+      "forecastMW": 12004.0,
+      "errorMW": 1975.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-29T12:00:00Z",
+      "actualMW": 10032.5,
+      "forecastMW": 12068.0,
+      "errorMW": 2035.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-29T13:00:00Z",
+      "actualMW": 9786.0,
+      "forecastMW": 12048.0,
+      "errorMW": 2262.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-29T14:00:00Z",
+      "actualMW": 9739.5,
+      "forecastMW": 12094.0,
+      "errorMW": 2354.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-29T15:00:00Z",
+      "actualMW": 9993.5,
+      "forecastMW": 12322.0,
+      "errorMW": 2328.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-29T16:00:00Z",
+      "actualMW": 10672.0,
+      "forecastMW": 12658.0,
+      "errorMW": 1986.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-29T17:00:00Z",
+      "actualMW": 11457.5,
+      "forecastMW": 13086.0,
+      "errorMW": 1628.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-29T18:00:00Z",
+      "actualMW": 11965.0,
+      "forecastMW": 13568.0,
+      "errorMW": 1603.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-29T19:00:00Z",
+      "actualMW": 12304.5,
+      "forecastMW": 14032.0,
+      "errorMW": 1727.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-29T20:00:00Z",
+      "actualMW": 12745.0,
+      "forecastMW": 14478.0,
+      "errorMW": 1733.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-29T21:00:00Z",
+      "actualMW": 12945.5,
+      "forecastMW": 14832.0,
+      "errorMW": 1886.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-29T22:00:00Z",
+      "actualMW": 13263.5,
+      "forecastMW": 15150.0,
+      "errorMW": 1886.5,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-29T23:00:00Z",
+      "actualMW": 13499.0,
+      "forecastMW": 15471.0,
+      "errorMW": 1972.0,
+      "forecastPublishTime": "2026-01-28T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-30T00:00:00Z",
+      "actualMW": 13565.5,
+      "forecastMW": 16290.0,
+      "errorMW": 2724.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-30T01:00:00Z",
+      "actualMW": 14071.0,
+      "forecastMW": 16669.0,
+      "errorMW": 2598.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-30T02:00:00Z",
+      "actualMW": 14653.5,
+      "forecastMW": 17021.0,
+      "errorMW": 2367.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-30T03:00:00Z",
+      "actualMW": 14987.5,
+      "forecastMW": 17264.0,
+      "errorMW": 2276.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-30T04:00:00Z",
+      "actualMW": 15555.5,
+      "forecastMW": 17442.0,
+      "errorMW": 1886.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-30T05:00:00Z",
+      "actualMW": 15543.5,
+      "forecastMW": 17583.0,
+      "errorMW": 2039.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-30T06:00:00Z",
+      "actualMW": 15792.5,
+      "forecastMW": 17691.0,
+      "errorMW": 1898.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-30T07:00:00Z",
+      "actualMW": 16461.5,
+      "forecastMW": 17823.0,
+      "errorMW": 1361.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-30T08:00:00Z",
+      "actualMW": 16454.5,
+      "forecastMW": 17990.0,
+      "errorMW": 1535.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-30T09:00:00Z",
+      "actualMW": 16233.0,
+      "forecastMW": 18066.0,
+      "errorMW": 1833.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-30T10:00:00Z",
+      "actualMW": 16252.0,
+      "forecastMW": 17999.0,
+      "errorMW": 1747.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-30T11:00:00Z",
+      "actualMW": 16136.5,
+      "forecastMW": 17823.0,
+      "errorMW": 1686.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-30T12:00:00Z",
+      "actualMW": 15695.0,
+      "forecastMW": 17555.0,
+      "errorMW": 1860.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-30T13:00:00Z",
+      "actualMW": 15586.0,
+      "forecastMW": 17251.0,
+      "errorMW": 1665.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-30T14:00:00Z",
+      "actualMW": 15709.5,
+      "forecastMW": 17010.0,
+      "errorMW": 1300.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-30T15:00:00Z",
+      "actualMW": 15700.5,
+      "forecastMW": 16897.0,
+      "errorMW": 1196.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-30T16:00:00Z",
+      "actualMW": 16004.0,
+      "forecastMW": 16873.0,
+      "errorMW": 869.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-30T17:00:00Z",
+      "actualMW": 16351.5,
+      "forecastMW": 16883.0,
+      "errorMW": 531.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-30T18:00:00Z",
+      "actualMW": 16615.5,
+      "forecastMW": 17062.0,
+      "errorMW": 446.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-30T19:00:00Z",
+      "actualMW": 16754.5,
+      "forecastMW": 17007.0,
+      "errorMW": 252.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-30T20:00:00Z",
+      "actualMW": 16715.5,
+      "forecastMW": 16897.0,
+      "errorMW": 181.5,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-30T21:00:00Z",
+      "actualMW": 16722.0,
+      "forecastMW": 16780.0,
+      "errorMW": 58.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-30T22:00:00Z",
+      "actualMW": 16575.0,
+      "forecastMW": 16655.0,
+      "errorMW": 80.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-30T23:00:00Z",
+      "actualMW": 15954.0,
+      "forecastMW": 16480.0,
+      "errorMW": 526.0,
+      "forecastPublishTime": "2026-01-29T07:30:00Z",
+      "leadHours": 39.5
+    },
+    {
+      "targetStart": "2026-01-31T00:00:00Z",
+      "actualMW": 15536.5,
+      "forecastMW": 16277.0,
+      "errorMW": 740.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 16.5
+    },
+    {
+      "targetStart": "2026-01-31T01:00:00Z",
+      "actualMW": 14739.5,
+      "forecastMW": 15964.0,
+      "errorMW": 1224.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 17.5
+    },
+    {
+      "targetStart": "2026-01-31T02:00:00Z",
+      "actualMW": 14322.5,
+      "forecastMW": 15574.0,
+      "errorMW": 1251.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 18.5
+    },
+    {
+      "targetStart": "2026-01-31T03:00:00Z",
+      "actualMW": 12934.0,
+      "forecastMW": 15233.0,
+      "errorMW": 2299.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 19.5
+    },
+    {
+      "targetStart": "2026-01-31T04:00:00Z",
+      "actualMW": 12112.5,
+      "forecastMW": 14917.0,
+      "errorMW": 2804.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 20.5
+    },
+    {
+      "targetStart": "2026-01-31T05:00:00Z",
+      "actualMW": 11730.5,
+      "forecastMW": 14593.0,
+      "errorMW": 2862.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 21.5
+    },
+    {
+      "targetStart": "2026-01-31T06:00:00Z",
+      "actualMW": 11426.5,
+      "forecastMW": 14256.0,
+      "errorMW": 2829.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 22.5
+    },
+    {
+      "targetStart": "2026-01-31T07:00:00Z",
+      "actualMW": 11341.0,
+      "forecastMW": 14008.0,
+      "errorMW": 2667.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 23.5
+    },
+    {
+      "targetStart": "2026-01-31T08:00:00Z",
+      "actualMW": 11458.5,
+      "forecastMW": 13797.0,
+      "errorMW": 2338.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 24.5
+    },
+    {
+      "targetStart": "2026-01-31T09:00:00Z",
+      "actualMW": 10886.0,
+      "forecastMW": 13478.0,
+      "errorMW": 2592.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 25.5
+    },
+    {
+      "targetStart": "2026-01-31T10:00:00Z",
+      "actualMW": 9695.5,
+      "forecastMW": 13013.0,
+      "errorMW": 3317.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 26.5
+    },
+    {
+      "targetStart": "2026-01-31T11:00:00Z",
+      "actualMW": 9067.0,
+      "forecastMW": 12421.0,
+      "errorMW": 3354.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 27.5
+    },
+    {
+      "targetStart": "2026-01-31T12:00:00Z",
+      "actualMW": 8740.0,
+      "forecastMW": 11816.0,
+      "errorMW": 3076.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 28.5
+    },
+    {
+      "targetStart": "2026-01-31T13:00:00Z",
+      "actualMW": 8556.0,
+      "forecastMW": 11319.0,
+      "errorMW": 2763.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 29.5
+    },
+    {
+      "targetStart": "2026-01-31T14:00:00Z",
+      "actualMW": 8033.0,
+      "forecastMW": 11029.0,
+      "errorMW": 2996.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 30.5
+    },
+    {
+      "targetStart": "2026-01-31T15:00:00Z",
+      "actualMW": 8677.5,
+      "forecastMW": 11088.0,
+      "errorMW": 2410.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 31.5
+    },
+    {
+      "targetStart": "2026-01-31T16:00:00Z",
+      "actualMW": 8848.0,
+      "forecastMW": 11262.0,
+      "errorMW": 2414.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 32.5
+    },
+    {
+      "targetStart": "2026-01-31T17:00:00Z",
+      "actualMW": 8749.5,
+      "forecastMW": 11404.0,
+      "errorMW": 2654.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 33.5
+    },
+    {
+      "targetStart": "2026-01-31T18:00:00Z",
+      "actualMW": 8385.0,
+      "forecastMW": 11466.0,
+      "errorMW": 3081.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 34.5
+    },
+    {
+      "targetStart": "2026-01-31T19:00:00Z",
+      "actualMW": 8499.0,
+      "forecastMW": 11302.0,
+      "errorMW": 2803.0,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 35.5
+    },
+    {
+      "targetStart": "2026-01-31T20:00:00Z",
+      "actualMW": 8828.5,
+      "forecastMW": 11040.0,
+      "errorMW": 2211.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 36.5
+    },
+    {
+      "targetStart": "2026-01-31T21:00:00Z",
+      "actualMW": 9202.5,
+      "forecastMW": 10848.0,
+      "errorMW": 1645.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 37.5
+    },
+    {
+      "targetStart": "2026-01-31T22:00:00Z",
+      "actualMW": 9397.5,
+      "forecastMW": 10748.0,
+      "errorMW": 1350.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 38.5
+    },
+    {
+      "targetStart": "2026-01-31T23:00:00Z",
+      "actualMW": 8989.5,
+      "forecastMW": 10667.0,
+      "errorMW": 1677.5,
+      "forecastPublishTime": "2026-01-30T07:30:00Z",
+      "leadHours": 39.5
+    }
+  ]
+}

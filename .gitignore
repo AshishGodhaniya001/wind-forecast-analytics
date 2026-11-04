@@ -28,6 +28,7 @@ dist-ssr/
 .env
 .env.*
 !.env.example
+!frontend/.env.production
 
 # ---- Generated data -----------------------------------------------------
 # Cached Elexon responses and any derived analysis output.

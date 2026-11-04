@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "frontend/dist",
+  "functions": {
+    "api/[...path].py": {
+      "includeFiles": [
+        "backend/data/processed/analysis_report_january_2026.json",
+        "backend/data/processed/aligned_analysis_january_2026.json"
+      ]
+    }
+  }
+}

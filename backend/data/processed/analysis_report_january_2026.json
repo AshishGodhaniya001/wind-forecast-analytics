@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-11-03T16:02:38Z",
+  "analysis_window": {
+    "start": "2026-01-01T00:00:00Z",
+    "end": "2026-02-01T00:00:00Z",
+    "interval": "half-open [start, end)",
+    "timezone": "UTC",
+    "expected_hours": 744
+  },
+  "cutoff_assumption": {
+    "rule": "For delivery day D (Europe/London), the latest forecast whose publishTime is strictly earlier than 09:20 Europe/London on D-1.",
+    "status": "provisional assumption",
+    "not_prescribed_by_challenge": true,
+    "rationale": "The challenge says purchasing happens one day before delivery but names no exchange or clock time. 09:20 Europe/London on D-1 is used as a conservative benchmark for the GB hourly day-ahead auction; the client-specific decision time remains unconfirmed. Forecasts published at the cutoff are excluded."
+  },
+  "period_labelling": "startTime marks the START of the interval it describes. FUELHH: settlementPeriod 1 is at 00:00 and 48 at 23:30, and each value is published at startTime + 30 min, so a value covers [startTime, startTime + 30 min). WINDFOR: the brief describes its startTime as similar to the actuals startTime, so an hourly value covers [startTime, startTime + 1 h). No timestamp is shifted.",
+  "sources": {
+    "actuals": {
+      "file": "actuals_january_2026.json",
+      "records": 1536,
+      "resolution_seconds": 1800
+    },
+    "forecasts": {
+      "file": "forecasts_january_2026.json",
+      "versions": 18080,
+      "targets": 744,
+      "resolution_seconds": 3600
+    }
+  },
+  "counts": {
+    "actual_source_records": 1536,
+    "valid_hourly_actuals": 744,
+    "unavailable_hourly_actuals": 0,
+    "forecast_versions_for_january_targets": 18080,
+    "forecast_targets": 744,
+    "selected_forecasts": 744,
+    "missing_forecasts": 0,
+    "conflicting_latest_publications": 0,
+    "collapsed_duplicate_publications": 0,
+    "missing_actuals_for_selected_forecasts": 0,
+    "unmatched_targets": 0,
+    "valid_aligned_pairs": 744
+  },
+  "metrics": {
+    "pair_count": 744,
+    "mae_mw": 2142.12,
+    "rmse_mw": 2611.695,
+    "bias_mw": 1851.904,
+    "nmae_percent": 18.4973,
+    "mean_actual_mw": 11580.737,
+    "mean_forecast_mw": 13432.641,
+    "note": null
+  },
+  "headline_metrics": {
+    "overforecast_share_percent": 85.0806,
+    "rmse_after_bias_mw": 1841.576,
+    "bias_squared_error_share_percent": 50.2796,
+    "bias_percent_of_mean_actual": 15.9912,
+    "headline_text": "Forecasts ran 1.85 GW (16.0% of mean actual) above actual; removing bias reduces RMSE to 1,842 MW. Bias accounts for 50.3% of squared error, and forecast exceeded actual in 85.1% of hours."
+  },
+  "additional_metrics": {
+    "p90_absolute_error_mw": 4300.15,
+    "p95_absolute_error_mw": 5307.25,
+    "largest_miss": {
+      "target_start": "2026-01-12T01:00:00Z",
+      "date_utc": "2026-01-12",
+      "hour_utc": 1,
+      "absolute_error_mw": 6870.0,
+      "error_mw": 6870.0,
+      "actual_mw": 14072.0,
+      "forecast_mw": 20942.0
+    },
+    "scatter_peak_caption": "Forecast peaks reach about 20 GW while actuals top out near 17.5 GW.",
+    "naive_previous_day_baseline": {
+      "pair_count": 744,
+      "mae_mw": 3959.56,
+      "rmse_mw": 5143.391
+    },
+    "mae_reduction_vs_naive_percent": 45.9,
+    "by_lead_time_bucket": [
+      {
+        "bucket": "<6h",
+        "pair_count": 0,
+        "mae_mw": null,
+        "bias_mw": null
+      },
+      {
+        "bucket": "6-12h",
+        "pair_count": 0,
+        "mae_mw": null,
+        "bias_mw": null
+      },
+      {
+        "bucket": "12-18h",
+        "pair_count": 62,
+        "mae_mw": 2225.895,
+        "bias_mw": 2170.508
+      },
+      {
+        "bucket": "18-24h",
+        "pair_count": 186,
+        "mae_mw": 2464.599,
+        "bias_mw": 2392.051
+      },
+      {
+        "bucket": "24-30h",
+        "pair_count": 186,
+        "mae_mw": 2050.269,
+        "bias_mw": 1714.21
+      },
+      {
+        "bucket": "30-36h",
+        "pair_count": 186,
+        "mae_mw": 2011.121,
+        "bias_mw": 1432.997
+      },
+      {
+        "bucket": "36-40h",
+        "pair_count": 124,
+        "mae_mw": 1950.79,
+        "bias_mw": 1717.282
+      },
+      {
+        "bucket": ">=40h",
+        "pair_count": 0,
+        "mae_mw": null,
+        "bias_mw": null
+      }
+    ],
+    "by_hour_of_day": [
+      {
+        "hour_utc": 0,
+        "pair_count": 31,
+        "mae_mw": 2159.79,
+        "bias_mw": 2084.726
+      },
+      {
+        "hour_utc": 1,
+        "pair_count": 31,
+        "mae_mw": 2292.0,
+        "bias_mw": 2256.29
+      },
+      {
+        "hour_utc": 2,
+        "pair_count": 31,
+        "mae_mw": 2412.419,
+        "bias_mw": 2366.484
+      },
+      {
+        "hour_utc": 3,
+        "pair_count": 31,
+        "mae_mw": 2515.806,
+        "bias_mw": 2424.452
+      },
+      {
+        "hour_utc": 4,
+        "pair_count": 31,
+        "mae_mw": 2506.919,
+        "bias_mw": 2436.306
+      },
+      {
+        "hour_utc": 5,
+        "pair_count": 31,
+        "mae_mw": 2535.161,
+        "bias_mw": 2463.323
+      },
+      {
+        "hour_utc": 6,
+        "pair_count": 31,
+        "mae_mw": 2483.194,
+        "bias_mw": 2415.548
+      },
+      {
+        "hour_utc": 7,
+        "pair_count": 31,
+        "mae_mw": 2334.097,
+        "bias_mw": 2246.194
+      },
+      {
+        "hour_utc": 8,
+        "pair_count": 31,
+        "mae_mw": 2130.742,
+        "bias_mw": 2001.581
+      },
+      {
+        "hour_utc": 9,
+        "pair_count": 31,
+        "mae_mw": 2084.903,
+        "bias_mw": 1943.065
+      },
+      {
+        "hour_utc": 10,
+        "pair_count": 31,
+        "mae_mw": 2014.823,
+        "bias_mw": 1815.435
+      },
+      {
+        "hour_utc": 11,
+        "pair_count": 31,
+        "mae_mw": 2037.565,
+        "bias_mw": 1645.081
+      },
+      {
+        "hour_utc": 12,
+        "pair_count": 31,
+        "mae_mw": 2004.161,
+        "bias_mw": 1462.548
+      },
+      {
+        "hour_utc": 13,
+        "pair_count": 31,
+        "mae_mw": 2029.419,
+        "bias_mw": 1417.548
+      },
+      {
+        "hour_utc": 14,
+        "pair_count": 31,
+        "mae_mw": 2006.226,
+        "bias_mw": 1421.032
+      },
+      {
+        "hour_utc": 15,
+        "pair_count": 31,
+        "mae_mw": 1935.5,
+        "bias_mw": 1365.016
+      },
+      {
+        "hour_utc": 16,
+        "pair_count": 31,
+        "mae_mw": 1960.726,
+        "bias_mw": 1416.952
+      },
+      {
+        "hour_utc": 17,
+        "pair_count": 31,
+        "mae_mw": 2039.661,
+        "bias_mw": 1441.661
+      },
+      {
+        "hour_utc": 18,
+        "pair_count": 31,
+        "mae_mw": 2068.419,
+        "bias_mw": 1461.323
+      },
+      {
+        "hour_utc": 19,
+        "pair_count": 31,
+        "mae_mw": 2056.194,
+        "bias_mw": 1492.0
+      },
+      {
+        "hour_utc": 20,
+        "pair_count": 31,
+        "mae_mw": 1963.726,
+        "bias_mw": 1543.145
+      },
+      {
+        "hour_utc": 21,
+        "pair_count": 31,
+        "mae_mw": 1883.484,
+        "bias_mw": 1642.097
+      },
+      {
+        "hour_utc": 22,
+        "pair_count": 31,
+        "mae_mw": 1900.274,
+        "bias_mw": 1743.532
+      },
+      {
+        "hour_utc": 23,
+        "pair_count": 31,
+        "mae_mw": 2055.677,
+        "bias_mw": 1940.355
+      }
+    ],
+    "hour_of_day_mae_extremes": {
+      "highest_hour_utc": 5,
+      "highest_mae_mw": 2535.161,
+      "lowest_hour_utc": 21,
+      "lowest_mae_mw": 1883.484
+    },
+    "worst_days_by_mae": [
+      {
+        "date_utc": "2026-01-28",
+        "pair_count": 24,
+        "mae_mw": 5374.792
+      },
+      {
+        "date_utc": "2026-01-12",
+        "pair_count": 24,
+        "mae_mw": 4868.25
+      },
+      {
+        "date_utc": "2026-01-11",
+        "pair_count": 24,
+        "mae_mw": 4801.646
+      },
+      {
+        "date_utc": "2026-01-01",
+        "pair_count": 24,
+        "mae_mw": 4207.542
+      },
+      {
+        "date_utc": "2026-01-21",
+        "pair_count": 24,
+        "mae_mw": 3658.312
+      }
+    ],
+    "timestamp_sensitivity": [
+      {
+        "shift_hours": -1,
+        "pair_count": 743,
+        "mae_mw": 2215.412,
+        "bias_mw": 1858.633
+      },
+      {
+        "shift_hours": 0,
+        "pair_count": 744,
+        "mae_mw": 2142.12,
+        "bias_mw": 1851.904
+      },
+      {
+        "shift_hours": 1,
+        "pair_count": 743,
+        "mae_mw": 2081.233,
+        "bias_mw": 1840.369
+      }
+    ]
+  },
+  "metric_definitions": {
+    "error": "forecastMW - actualMW, in MW. Positive means the forecast was higher.",
+    "mae_mw": "Mean of |error| across valid aligned pairs, in MW.",
+    "rmse_mw": "Square root of the mean of error^2, in MW.",
+    "bias_mw": "Mean of error, in MW. Positive means forecasts ran high.",
+    "nmae_percent": "MAE divided by mean actual MW, times 100. Unavailable if mean actual is not strictly positive.",
+    "mape": "Not used. Percentage error against low actual generation is unstable."
+  },
+  "lead_time_hours": {
+    "count": 744,
+    "min_hours": 16.5,
+    "median_hours": 28.0,
+    "mean_hours": 28.0,
+    "max_hours": 39.5,
+    "p05_hours": 17.5,
+    "p95_hours": 38.5,
+    "buckets": {
+      "<6h": 0,
+      "6-12h": 0,
+      "12-18h": 62,
+      "18-24h": 186,
+      "24-30h": 186,
+      "30-36h": 186,
+      "36-40h": 124,
+      ">=40h": 0
+    }
+  },
+  "audit": {
+    "missing_forecast": [],
+    "missing_actual": [],
+    "conflicting_latest_publications": [],
+    "unavailable_hourly_actuals": []
+  },
+  "limitations": [
+    "The cutoff is a provisional market benchmark, not a confirmed company decision time. The challenge does not name an exchange or give the client's internal decision schedule. 09:20 Europe/London on D-1 is used as a conservative hourly day-ahead gate benchmark; confirm the client's exchange and internal deadline before operational use.",
+    "The two datasets may not cover the same generation population. Mean forecast generation is materially higher than mean actual generation across the month, which is consistent with WINDFOR covering more wind capacity than the FUELHH WIND outturn. Metrics are reported raw, without any adjustment, and this gap is not corrected.",
+    "Period labelling is documented and evidence-based for FUELHH, but only stated indirectly for WINDFOR. Shifting the forecast by one hour changes the results, so the convention is disclosed rather than treated as certain.",
+    "No financial or procurement conclusion is drawn. The challenge supplies no cost, price or volume data, so no savings, profitability or trading impact is claimed.",
+    "MAPE is not reported. January contains low-generation periods where a percentage error relative to actual generation is unstable."
+  ]
+}
