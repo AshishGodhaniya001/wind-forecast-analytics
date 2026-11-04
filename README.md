@@ -206,10 +206,6 @@ There is no separate frontend test script.
 └── .env.example      # Local configuration reference
 ```
 
-## AI tools
-
-OpenAI Codex was used as an AI coding assistant during implementation and dashboard UI improvements.
-
 ## Deployment
 
 Production dashboard: <https://wind-forecast-analytics-dashboard.vercel.app>
