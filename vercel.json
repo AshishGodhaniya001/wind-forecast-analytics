@@ -5,10 +5,7 @@
   "outputDirectory": "frontend/dist",
   "functions": {
     "api/[...path].py": {
-      "includeFiles": [
-        "backend/data/processed/analysis_report_january_2026.json",
-        "backend/data/processed/aligned_analysis_january_2026.json"
-      ]
+      "includeFiles": "{backend/data/processed/analysis_report_january_2026.json,backend/data/processed/aligned_analysis_january_2026.json}"
     }
   }
 }
